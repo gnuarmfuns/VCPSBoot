@@ -1,0 +1,2230 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcmp.o)
+                              ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o (memcmp)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+                              ./src/app_stm32f4.o (memcpy)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memset.o)
+                              ./src/app_stm32f4.o (memset)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+                              ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o (strlen)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/app_stm32f4.o
+ .group         0x0000000000000000        0xc ./src/led.o
+ .group         0x0000000000000000        0xc ./src/led.o
+ .group         0x0000000000000000        0xc ./src/led.o
+ .group         0x0000000000000000        0xc ./src/led.o
+ .bss           0x0000000000000000        0x0 ./src/led.o
+ .debug_macro   0x0000000000000000      0xa90 ./src/led.o
+ .debug_macro   0x0000000000000000      0x34e ./src/led.o
+ .debug_macro   0x0000000000000000       0x40 ./src/led.o
+ .debug_macro   0x0000000000000000       0xfd ./src/led.o
+ .group         0x0000000000000000        0xc ./src/system.o
+ .group         0x0000000000000000        0xc ./src/system.o
+ .group         0x0000000000000000        0xc ./src/system.o
+ .bss           0x0000000000000000        0x0 ./src/system.o
+ .debug_macro   0x0000000000000000      0xa90 ./src/system.o
+ .debug_macro   0x0000000000000000      0x34e ./src/system.o
+ .debug_macro   0x0000000000000000       0x3a ./src/system.o
+ .group         0x0000000000000000        0xc ./src/timer.o
+ .group         0x0000000000000000        0xc ./src/timer.o
+ .group         0x0000000000000000        0xc ./src/timer.o
+ .debug_macro   0x0000000000000000      0xa90 ./src/timer.o
+ .debug_macro   0x0000000000000000      0x34e ./src/timer.o
+ .debug_macro   0x0000000000000000       0x3a ./src/timer.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/stm32f4.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/stm32f4.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/stm32f4.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/stm32f4.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/stm32f4.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/hal/stm32f4.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/hal/stm32f4.o
+ .text.flash_set_waitstates
+                0x0000000000000000       0x20 ../wolfBoot/hal/stm32f4.o
+ .text.clock_pll_off
+                0x0000000000000000       0x58 ../wolfBoot/hal/stm32f4.o
+ .text.clock_pll_on
+                0x0000000000000000      0x19c ../wolfBoot/hal/stm32f4.o
+ .text.hal_init
+                0x0000000000000000        0xc ../wolfBoot/hal/stm32f4.o
+ .text.hal_prepare_boot
+                0x0000000000000000        0xa ../wolfBoot/hal/stm32f4.o
+ .debug_macro   0x0000000000000000      0x34e ../wolfBoot/hal/stm32f4.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/hal/stm32f4.o
+ .debug_macro   0x0000000000000000       0x5a ../wolfBoot/hal/stm32f4.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/src/libwolfboot.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/src/libwolfboot.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/src/libwolfboot.o
+ .text.set_update_sector_flags
+                0x0000000000000000       0x24 ../wolfBoot/src/libwolfboot.o
+ .text.get_update_sector_flags
+                0x0000000000000000       0x1c ../wolfBoot/src/libwolfboot.o
+ .text.wolfBoot_set_update_sector_flag
+                0x0000000000000000       0xb8 ../wolfBoot/src/libwolfboot.o
+ .text.wolfBoot_get_partition_state
+                0x0000000000000000       0x4c ../wolfBoot/src/libwolfboot.o
+ .text.wolfBoot_get_update_sector_flag
+                0x0000000000000000       0x74 ../wolfBoot/src/libwolfboot.o
+ .text.wolfBoot_erase_partition
+                0x0000000000000000       0x4e ../wolfBoot/src/libwolfboot.o
+ .text.wolfBoot_get_image_type
+                0x0000000000000000       0x80 ../wolfBoot/src/libwolfboot.o
+ .text.wolfBoot_dualboot_candidate
+                0x0000000000000000        0x6 ../wolfBoot/src/libwolfboot.o
+ .text.wolfBoot_fallback_is_possible
+                0x0000000000000000       0x18 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x34e ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x103 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000      0x103 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000000000       0x5a ../wolfBoot/src/libwolfboot.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .group         0x0000000000000000        0xc ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .text.spi_pins_release
+                0x0000000000000000       0x9c ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .text.spi_release
+                0x0000000000000000       0x28 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_macro   0x0000000000000000      0x34e ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_macro   0x0000000000000000      0x103 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_macro   0x0000000000000000       0x5a ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_macro   0x0000000000000000      0x18c ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .group         0x0000000000000000        0xc ./src/startup_arm.o
+ .debug_macro   0x0000000000000000      0xa90 ./src/startup_arm.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text.wc_HmacSizeByType
+                0x0000000000000000       0x62 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text._InitHmac
+                0x0000000000000000       0x3a ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text.wc_HmacSetKey
+                0x0000000000000000      0x17e ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text.HmacKeyInnerHash
+                0x0000000000000000       0x40 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text.wc_HmacUpdate
+                0x0000000000000000       0x68 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text.wc_HmacFinal
+                0x0000000000000000       0xba ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text.wc_HmacInit
+                0x0000000000000000       0x40 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text.wc_HmacFree
+                0x0000000000000000       0x3e ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .text.wolfSSL_GetHmacMaxSize
+                0x0000000000000000        0x6 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x58 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000      0x182 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000      0x341 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000      0x11f ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.rotlFixed
+                0x0000000000000000       0x18 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.ByteReverseWord32
+                0x0000000000000000       0x2c ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.ByteReverseWords
+                0x0000000000000000       0x48 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.XorWords
+                0x0000000000000000       0x44 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.xorbuf   0x0000000000000000       0x6c ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.ForceZero
+                0x0000000000000000       0x28 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .rodata.rcon   0x0000000000000000       0x28 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .rodata.Te     0x0000000000000000     0x1000 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .rodata.Td     0x0000000000000000     0x1000 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .rodata.Td4    0x0000000000000000      0x100 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.PreFetchTe
+                0x0000000000000000       0x4c ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesEncrypt
+                0x0000000000000000     0x1244 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.PreFetchTd
+                0x0000000000000000       0x4c ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.PreFetchTd4
+                0x0000000000000000       0x34 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesDecrypt
+                0x0000000000000000     0x11f8 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesSetKeyLocal
+                0x0000000000000000      0x714 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesSetKey
+                0x0000000000000000       0x42 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesSetIV
+                0x0000000000000000       0x42 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesCbcEncrypt
+                0x0000000000000000       0x82 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesCbcDecrypt
+                0x0000000000000000       0xa2 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesInit
+                0x0000000000000000       0x28 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesFree
+                0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .text.wc_AesGetKeySize
+                0x0000000000000000       0x60 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000      0x166 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000      0x123 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x48 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x5c ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000      0x174 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x51 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x58 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000      0x182 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000      0x341 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x5f ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000      0x11f ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x74 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x12 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000000000       0x1f ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wolfCrypt_Cleanup
+                0x0000000000000000       0x30 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_InitAndAllocMutex
+                0x0000000000000000       0x3a ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_strtok
+                0x0000000000000000      0x12a ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_strsep
+                0x0000000000000000       0x72 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_InitMutex
+                0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_FreeMutex
+                0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_LockMutex
+                0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.wc_UnLockMutex
+                0x0000000000000000        0xc ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .text.mystrnstr
+                0x0000000000000000       0x62 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x166 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x123 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x48 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x5c ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x174 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x51 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x58 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x182 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x341 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x5f ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x11f ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x74 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x7c ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000      0x118 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x54 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x0000000000000000       0x1c ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .rodata.TPM_20_EK_AUTH_POLICY
+                0x0000000000000000       0x20 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_CommandProcess
+                0x0000000000000000      0x2f8 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ResponseProcess
+                0x0000000000000000      0x254 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_SendCommandAuth
+                0x0000000000000000      0x10a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetTag
+                0x0000000000000000       0x50 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetSessionAuthCount
+                0x0000000000000000       0x70 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Init_minimal
+                0x0000000000000000       0x1c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Init
+                0x0000000000000000       0x24 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Cleanup
+                0x0000000000000000       0x6c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Shutdown
+                0x0000000000000000       0x70 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_SelfTest
+                0x0000000000000000       0x70 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_IncrementalSelfTest
+                0x0000000000000000       0xe2 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetTestResult
+                0x0000000000000000       0x96 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetRandom
+                0x0000000000000000       0x9c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_StirRandom
+                0x0000000000000000       0x82 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PCR_Extend
+                0x0000000000000000      0x10a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Create
+                0x0000000000000000      0x284 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_CreatePrimary
+                0x0000000000000000      0x29a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Load
+                0x0000000000000000      0x11a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_FlushContext
+                0x0000000000000000       0x70 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Unseal
+                0x0000000000000000       0xd8 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_StartAuthSession
+                0x0000000000000000      0x130 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyRestart
+                0x0000000000000000       0x70 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_LoadExternal
+                0x0000000000000000      0x1e6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ReadPublic
+                0x0000000000000000       0xd6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ActivateCredential
+                0x0000000000000000      0x12e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_MakeCredential
+                0x0000000000000000      0x108 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ObjectChangeAuth
+                0x0000000000000000      0x108 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Duplicate
+                0x0000000000000000      0x186 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Rewrap
+                0x0000000000000000      0x17c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Import
+                0x0000000000000000      0x15e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_RSA_Encrypt
+                0x0000000000000000      0x166 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_RSA_Decrypt
+                0x0000000000000000      0x14a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ECDH_KeyGen
+                0x0000000000000000       0xf2 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ECDH_ZGen
+                0x0000000000000000       0xd4 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ECC_Parameters
+                0x0000000000000000      0x1f0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ZGen_2Phase
+                0x0000000000000000      0x114 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_EncryptDecrypt
+                0x0000000000000000      0x160 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_EncryptDecrypt2
+                0x0000000000000000      0x166 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Hash
+                0x0000000000000000      0x16a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_HMAC
+                0x0000000000000000      0x108 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_HMAC_Start
+                0x0000000000000000       0xfa ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_HashSequenceStart
+                0x0000000000000000       0xe8 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_SequenceUpdate
+                0x0000000000000000       0xbc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_SequenceComplete
+                0x0000000000000000      0x150 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_EventSequenceComplete
+                0x0000000000000000      0x15e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Certify
+                0x0000000000000000      0x138 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_CertifyCreation
+                0x0000000000000000      0x1a6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Quote
+                0x0000000000000000      0x138 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetSessionAuditDigest
+                0x0000000000000000      0x146 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetCommandAuditDigest
+                0x0000000000000000      0x138 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetTime
+                0x0000000000000000      0x138 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Commit
+                0x0000000000000000      0x152 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_EC_Ephemeral
+                0x0000000000000000       0xf0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_VerifySignature
+                0x0000000000000000      0x146 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Sign
+                0x0000000000000000      0x14c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_SetCommandCodeAuditStatus
+                0x0000000000000000      0x122 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PCR_Event
+                0x0000000000000000      0x14a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PCR_Allocate
+                0x0000000000000000       0xfe ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PCR_SetAuthPolicy
+                0x0000000000000000       0xda ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PCR_SetAuthValue
+                0x0000000000000000       0xbc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PCR_Reset
+                0x0000000000000000       0x98 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicySigned
+                0x0000000000000000      0x1d8 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicySecret
+                0x0000000000000000      0x1ac ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyTicket
+                0x0000000000000000      0x140 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyOR
+                0x0000000000000000       0xe2 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyPCR
+                0x0000000000000000       0xdc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyLocality
+                0x0000000000000000       0x7e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyNV
+                0x0000000000000000       0xfa ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyCounterTimer
+                0x0000000000000000       0xec ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyCommandCode
+                0x0000000000000000       0x7e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyCpHash
+                0x0000000000000000       0xcc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyNameHash
+                0x0000000000000000       0xcc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyDuplicationSelect
+                0x0000000000000000      0x102 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyAuthorize
+                0x0000000000000000      0x160 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicySessionOnly
+                0x0000000000000000       0x66 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyPhysicalPresence
+                0x0000000000000000       0x1e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyAuthValue
+                0x0000000000000000       0x1e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyPassword
+                0x0000000000000000       0x1e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyGetDigest
+                0x0000000000000000       0xf4 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyNvWritten
+                0x0000000000000000       0x7e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyTemplate
+                0x0000000000000000       0xcc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PolicyAuthorizeNV
+                0x0000000000000000       0xb4 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_HierarchyControl
+                0x0000000000000000       0xb4 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_SetPrimaryPolicy
+                0x0000000000000000       0xcc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ChangeSeed
+                0x0000000000000000       0x98 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ChangePPS
+                0x0000000000000000       0x1a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ChangeEPS
+                0x0000000000000000       0x1a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_Clear
+                0x0000000000000000       0x98 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ClearControl
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_HierarchyChangeAuth
+                0x0000000000000000       0xbc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_DictionaryAttackLockReset
+                0x0000000000000000       0x98 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_DictionaryAttackParameters
+                0x0000000000000000       0xc2 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_PP_Commands
+                0x0000000000000000      0x112 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_SetAlgorithmSet
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_FieldUpgradeStart
+                0x0000000000000000       0xdc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_FieldUpgradeData
+                0x0000000000000000      0x138 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_FirmwareRead
+                0x0000000000000000       0xf0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ContextSave
+                0x0000000000000000       0xce ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ContextLoad
+                0x0000000000000000       0xc8 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_EvictControl
+                0x0000000000000000       0xac ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ReadClock
+                0x0000000000000000      0x104 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ClockSet
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ClockRateAdjust
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_TestParms
+                0x0000000000000000       0xb4 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_DefineSpace
+                0x0000000000000000      0x13e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_UndefineSpace
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_UndefineSpaceSpecial
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_ReadPublic
+                0x0000000000000000      0x16c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_Write
+                0x0000000000000000       0xdc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_Increment
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_Extend
+                0x0000000000000000       0xcc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_SetBits
+                0x0000000000000000       0xb4 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_WriteLock
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_GlobalWriteLock
+                0x0000000000000000       0x98 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_Read
+                0x0000000000000000      0x102 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_ReadLock
+                0x0000000000000000       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_ChangeAuth
+                0x0000000000000000       0xbc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_NV_Certify
+                0x0000000000000000      0x168 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetHashDigestSize
+                0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetHashType
+                0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetNonce
+                0x0000000000000000       0xa0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetName
+                0x0000000000000000       0x66 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .rodata        0x0000000000000000      0x6f8 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetRCString
+                0x0000000000000000      0x618 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetAlgName
+                0x0000000000000000      0x244 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetCurveSize
+                0x0000000000000000       0xb8 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetTpmCurve
+                0x0000000000000000       0x84 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetWolfCurve
+                0x0000000000000000       0x88 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ParseAttest
+                0x0000000000000000       0x46 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetVendorID
+                0x0000000000000000       0x2a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x34e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x166 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x123 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x48 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x174 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x51 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x58 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x182 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x341 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x5f ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x11f ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x74 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x7c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x118 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x53 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x54 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0xdd ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x1c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000      0x23b ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .rodata.TPM_20_EK_AUTH_POLICY
+                0x0000000000000000       0x20 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.ByteReverseWord64
+                0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.c16toa   0x0000000000000000       0x2a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.c32toa   0x0000000000000000       0x38 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_U16ToByteArray
+                0x0000000000000000       0x26 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_U32ToByteArray
+                0x0000000000000000       0x1e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_SwapU16
+                0x0000000000000000       0x1e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_SwapU64
+                0x0000000000000000       0x1e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendU64
+                0x0000000000000000       0x5a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseU64
+                0x0000000000000000       0x7a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendS32
+                0x0000000000000000       0x50 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_MarkU16
+                0x0000000000000000       0x2c ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_PlaceU16
+                0x0000000000000000       0x5e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_MarkU32
+                0x0000000000000000       0x2c ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_PlaceU32
+                0x0000000000000000       0x52 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendAuthCmd
+                0x0000000000000000       0xa4 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendAuth
+                0x0000000000000000       0x72 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseAuth
+                0x0000000000000000       0x5e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendSymmetric
+                0x0000000000000000       0x74 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseSymmetric
+                0x0000000000000000       0x7c ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendEccScheme
+                0x0000000000000000       0x30 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseEccScheme
+                0x0000000000000000       0x2e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendRsaScheme
+                0x0000000000000000       0x30 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseRsaScheme
+                0x0000000000000000       0x2e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendKeyedHashScheme
+                0x0000000000000000       0x30 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseKeyedHashScheme
+                0x0000000000000000       0x2e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendKdfScheme
+                0x0000000000000000       0x30 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseKdfScheme
+                0x0000000000000000       0x2e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendAsymScheme
+                0x0000000000000000       0x30 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseAsymScheme
+                0x0000000000000000       0x2e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendEccPoint
+                0x0000000000000000       0x4e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseEccPoint
+                0x0000000000000000       0x52 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendPoint
+                0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParsePoint
+                0x0000000000000000       0x26 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendSensitive
+                0x0000000000000000       0x94 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendSensitiveCreate
+                0x0000000000000000       0x66 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendPublicParms
+                0x0000000000000000       0xdc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParsePublicParms
+                0x0000000000000000       0xda ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendPublic
+                0x0000000000000000      0x11a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParsePublic
+                0x0000000000000000      0x10a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_AppendSignature
+                0x0000000000000000      0x124 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseSignature
+                0x0000000000000000      0x124 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_ParseAttest
+                0x0000000000000000      0x2c8 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x34e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x166 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x123 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x48 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x174 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x51 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x58 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x182 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x341 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x5f ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x11f ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x74 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x7c ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x118 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x53 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x54 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0xdd ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x1c ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x23b ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x29 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000      0x23a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .rodata.TPM_20_EK_AUTH_POLICY
+                0x0000000000000000       0x20 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x34e ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x166 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x123 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x48 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x174 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x51 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x58 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x182 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x341 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x5f ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x11f ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x74 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x7c ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x118 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x53 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x54 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0xdd ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x1c ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x23b ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x29 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000      0x23a ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .rodata.TPM_20_EK_AUTH_POLICY
+                0x0000000000000000       0x20 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_Test
+                0x0000000000000000       0x98 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_OpenExisting
+                0x0000000000000000       0x60 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetTpmDevId
+                0x0000000000000000       0x1a ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_SelfTest
+                0x0000000000000000       0x42 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_SetAuthHandle
+                0x0000000000000000       0x48 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_SetAuthSession
+                0x0000000000000000       0xde ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_Cleanup_ex
+                0x0000000000000000       0x4c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_Cleanup
+                0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_EncryptSalt
+                0x0000000000000000       0x78 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_StartSession
+                0x0000000000000000      0x3b0 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_CreatePrimaryKey
+                0x0000000000000000      0x206 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ChangeAuthKey
+                0x0000000000000000      0x21c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_CreateKey
+                0x0000000000000000      0x1be ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadKey
+                0x0000000000000000      0x148 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_CreateAndLoadKey
+                0x0000000000000000       0xcc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadPublicKey
+                0x0000000000000000      0x13c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ComputeName
+                0x0000000000000000      0x114 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_SensitiveToPrivate
+                0x0000000000000000      0x284 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ImportPrivateKey
+                0x0000000000000000      0x220 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadPrivateKey
+                0x0000000000000000      0x140 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadRsaPublicKey_ex
+                0x0000000000000000      0x138 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadRsaPublicKey
+                0x0000000000000000       0x2e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ImportRsaPrivateKey
+                0x0000000000000000      0x1fc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadRsaPrivateKey_ex
+                0x0000000000000000      0x10e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadRsaPrivateKey
+                0x0000000000000000       0x3a ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadEccPublicKey
+                0x0000000000000000      0x140 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ImportEccPrivateKey
+                0x0000000000000000      0x224 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadEccPrivateKey
+                0x0000000000000000      0x110 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ReadPublicKey
+                0x0000000000000000       0xd6 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_EccKey_TpmToWolf
+                0x0000000000000000      0x138 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVStoreKey
+                0x0000000000000000       0xa8 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVDeleteKey
+                0x0000000000000000       0x80 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_SignHashScheme
+                0x0000000000000000      0x1fc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_SignHash
+                0x0000000000000000       0x82 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_VerifyHashScheme
+                0x0000000000000000      0x20c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_VerifyHash_ex
+                0x0000000000000000       0x84 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_VerifyHash
+                0x0000000000000000       0x2e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ECDHGenKey
+                0x0000000000000000       0xb4 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ECDHGen
+                0x0000000000000000      0x11a ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ECDHGenZ
+                0x0000000000000000      0x122 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ECDHEGenKey
+                0x0000000000000000       0x6c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ECDHEGenZ
+                0x0000000000000000      0x188 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_RsaEncrypt
+                0x0000000000000000      0x15e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_RsaDecrypt
+                0x0000000000000000      0x15e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ReadPCR
+                0x0000000000000000       0xc6 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ExtendPCR
+                0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_UnloadHandle
+                0x0000000000000000       0x80 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVCreateAuth
+                0x0000000000000000       0xc2 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVCreate
+                0x0000000000000000       0x84 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVWriteAuth
+                0x0000000000000000      0x12e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVWrite
+                0x0000000000000000       0x3a ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVReadAuth
+                0x0000000000000000      0x140 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVRead
+                0x0000000000000000       0x3a ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVReadPublic
+                0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVDeleteAuth
+                0x0000000000000000       0x62 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_NVDelete
+                0x0000000000000000       0x30 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetRng
+                0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetRandom
+                0x0000000000000000       0xa2 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_Clear
+                0x0000000000000000       0x44 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_HashStart
+                0x0000000000000000       0x9e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_HashUpdate
+                0x0000000000000000      0x12e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_HashFinish
+                0x0000000000000000      0x180 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_ComputeSymmetricUnique
+                0x0000000000000000       0xda ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadSymmetricKey
+                0x0000000000000000      0x2a0 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_EncryptDecryptBlock
+                0x0000000000000000      0x258 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_EncryptDecrypt
+                0x0000000000000000       0x7c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_SetCommand
+                0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_LoadKeyedHashKey
+                0x0000000000000000      0x36c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_HmacStart
+                0x0000000000000000      0x10c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_HmacUpdate
+                0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_HmacFinish
+                0x0000000000000000       0x60 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_Shutdown
+                0x0000000000000000       0x66 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_UnloadHandles
+                0x0000000000000000       0x66 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_UnloadHandles_AllTransient
+                0x0000000000000000       0x1c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.GetKeyTemplateRSA
+                0x0000000000000000       0xa8 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.GetKeyTemplateECC
+                0x0000000000000000       0xd4 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_RSA
+                0x0000000000000000       0x2e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_ECC
+                0x0000000000000000       0x3c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_Symmetric
+                0x0000000000000000       0x94 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_KeyedHash
+                0x0000000000000000       0x78 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_RSA_EK
+                0x0000000000000000       0x58 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_ECC_EK
+                0x0000000000000000       0x50 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_RSA_SRK
+                0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_ECC_SRK
+                0x0000000000000000       0x2c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_RSA_AIK
+                0x0000000000000000       0x44 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetKeyTemplate_ECC_AIK
+                0x0000000000000000       0x3c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetNvAttributesTemplate
+                0x0000000000000000       0x3c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_CreateEK
+                0x0000000000000000       0x90 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_CreateSRK
+                0x0000000000000000       0xa4 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_CreateAndLoadAIK
+                0x0000000000000000       0x9e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetTime
+                0x0000000000000000       0x64 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x34e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x166 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x123 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x48 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x174 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x51 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x58 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x182 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x341 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x5f ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x11f ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x74 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x7c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x118 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x53 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x54 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0xdd ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x1c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x23b ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x29 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000      0x23a ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .group         0x0000000000000000        0xc ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text          0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .bss           0x0000000000000000        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .rodata.TPM_20_EK_AUTH_POLICY
+                0x0000000000000000       0x20 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text.TPM2_KDFa
+                0x0000000000000000      0x226 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .rodata        0x0000000000000000        0x4 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text.TPM2_ParamEnc_XOR
+                0x0000000000000000       0xe8 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text.TPM2_ParamDec_XOR
+                0x0000000000000000       0xe8 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text.TPM2_CalcCpHash
+                0x0000000000000000      0x12e ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text.TPM2_CalcRpHash
+                0x0000000000000000       0xd0 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text.TPM2_CalcHmac
+                0x0000000000000000      0x15a ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text.TPM2_ParamEnc_CmdRequest
+                0x0000000000000000       0x46 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text.TPM2_ParamDec_CmdResponse
+                0x0000000000000000       0x46 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0xaea ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x34e ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x40 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x166 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x123 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x48 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x5c ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x174 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x51 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x22 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x5e ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x94 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x34 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x58 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x182 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x341 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x5f ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x11f ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x74 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x57 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x35 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x18 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x7c ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x118 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x53 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x54 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0xdd ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x1c ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x23b ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x29 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x17 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000      0x23a ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x43 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_macro   0x0000000000000000       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000020100 0x000000000001ff00 xr
+RAM              0x0000000020000000 0x0000000000004000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./src/app_stm32f4.o
+LOAD ./src/led.o
+LOAD ./src/system.o
+LOAD ./src/timer.o
+LOAD ../wolfBoot/hal/stm32f4.o
+LOAD ../wolfBoot/src/libwolfboot.o
+LOAD ../wolfBoot/hal/spi/spi_drv_stm32.o
+LOAD ./src/startup_arm.o
+LOAD ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+LOAD ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+LOAD ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+LOAD ../wolfBoot/lib/wolfTPM/src/tpm2.o
+LOAD ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+LOAD ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+LOAD ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+LOAD ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+START GROUP
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/libgcc.a
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc.a
+END GROUP
+
+.text           0x0000000000020100     0x2fd4
+                0x0000000000020100                _start_text = .
+ *(.isr_vector)
+ .isr_vector    0x0000000000020100      0x100 ./src/startup_arm.o
+                0x0000000000020100                IV
+ *(.init)
+ *(.fini)
+ *(.text*)
+ .text          0x0000000000020200      0x6f8 ./src/app_stm32f4.o
+                0x0000000000020200                uart_write
+                0x0000000000020230                uart_write_hex
+                0x00000000000202e0                uart_setup
+                0x00000000000203c8                uart_read
+                0x00000000000205ae                main
+ .text          0x00000000000208f8      0x104 ./src/led.o
+                0x00000000000208f8                led_pwm_setup
+                0x0000000000020970                boot_led_on
+ .text          0x00000000000209fc      0x148 ./src/system.o
+                0x00000000000209fc                flash_set_waitstates
+                0x0000000000020a14                clock_config
+ .text          0x0000000000020b44      0x328 ./src/timer.o
+                0x0000000000020bae                pwm_init
+                0x0000000000020cdc                timer_init
+                0x0000000000020df0                isr_tim2
+ .text.flash_wait_complete
+                0x0000000000020e6c       0x1c ../wolfBoot/hal/stm32f4.o
+ .text.flash_erase_sector
+                0x0000000000020e88       0x60 ../wolfBoot/hal/stm32f4.o
+ .text.clear_errors
+                0x0000000000020ee8       0x14 ../wolfBoot/hal/stm32f4.o
+ .text.hal_flash_write
+                0x0000000000020efc       0x6c ../wolfBoot/hal/stm32f4.o
+                0x0000000000020efc                hal_flash_write
+ .text.hal_flash_unlock
+                0x0000000000020f68       0x2c ../wolfBoot/hal/stm32f4.o
+                0x0000000000020f68                hal_flash_unlock
+ .text.hal_flash_lock
+                0x0000000000020f94       0x14 ../wolfBoot/hal/stm32f4.o
+                0x0000000000020f94                hal_flash_lock
+ .text.hal_flash_erase
+                0x0000000000020fa8       0xe4 ../wolfBoot/hal/stm32f4.o
+                0x0000000000020fa8                hal_flash_erase
+ .text.get_trailer_at
+                0x000000000002108c       0x3a ../wolfBoot/src/libwolfboot.o
+ .text.set_trailer_at
+                0x00000000000210c6       0x58 ../wolfBoot/src/libwolfboot.o
+ *fill*         0x000000000002111e        0x2 
+ .text.set_partition_magic
+                0x0000000000021120       0x44 ../wolfBoot/src/libwolfboot.o
+ .text.get_partition_magic
+                0x0000000000021164       0x20 ../wolfBoot/src/libwolfboot.o
+ .text.get_partition_state
+                0x0000000000021184       0x20 ../wolfBoot/src/libwolfboot.o
+ .text.set_partition_state
+                0x00000000000211a4       0x2a ../wolfBoot/src/libwolfboot.o
+ *fill*         0x00000000000211ce        0x2 
+ .text.wolfBoot_set_partition_state
+                0x00000000000211d0       0x68 ../wolfBoot/src/libwolfboot.o
+                0x00000000000211d0                wolfBoot_set_partition_state
+ .text.wolfBoot_update_trigger
+                0x0000000000021238       0x26 ../wolfBoot/src/libwolfboot.o
+                0x0000000000021238                wolfBoot_update_trigger
+ .text.wolfBoot_success
+                0x000000000002125e       0x26 ../wolfBoot/src/libwolfboot.o
+                0x000000000002125e                wolfBoot_success
+ .text.wolfBoot_find_header
+                0x0000000000021284       0xe0 ../wolfBoot/src/libwolfboot.o
+                0x0000000000021284                wolfBoot_find_header
+ .text.wolfBoot_get_blob_version
+                0x0000000000021364       0x54 ../wolfBoot/src/libwolfboot.o
+                0x0000000000021364                wolfBoot_get_blob_version
+ .text.wolfBoot_get_image_version
+                0x00000000000213b8       0x3c ../wolfBoot/src/libwolfboot.o
+                0x00000000000213b8                wolfBoot_get_image_version
+ .text.spi_cs_off
+                0x00000000000213f4       0x3c ../wolfBoot/hal/spi/spi_drv_stm32.o
+                0x00000000000213f4                spi_cs_off
+ .text.spi_cs_on
+                0x0000000000021430       0x40 ../wolfBoot/hal/spi/spi_drv_stm32.o
+                0x0000000000021430                spi_cs_on
+ .text.spi_flash_pin_setup
+                0x0000000000021470       0x6c ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .text.spi_tpm2_pin_setup
+                0x00000000000214dc       0x6c ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .text.spi1_pins_setup
+                0x0000000000021548       0x98 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .text.spi1_reset
+                0x00000000000215e0       0x20 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .text.spi_read
+                0x0000000000021600       0x28 ../wolfBoot/hal/spi/spi_drv_stm32.o
+                0x0000000000021600                spi_read
+ .text.spi_write
+                0x0000000000021628       0x40 ../wolfBoot/hal/spi/spi_drv_stm32.o
+                0x0000000000021628                spi_write
+ .text.spi_init
+                0x0000000000021668       0x78 ../wolfBoot/hal/spi/spi_drv_stm32.o
+                0x0000000000021668                spi_init
+ .text          0x00000000000216e0       0x90 ./src/startup_arm.o
+                0x00000000000216e0                isr_reset
+                0x0000000000021764                isr_fault
+                0x0000000000021766                isr_memfault
+                0x0000000000021768                isr_busfault
+                0x000000000002176a                isr_usagefault
+                0x000000000002176c                isr_empty
+ .text.wolfCrypt_Init
+                0x0000000000021770       0x20 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+                0x0000000000021770                wolfCrypt_Init
+ .text.TPM2_AcquireLock
+                0x0000000000021790        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_ReleaseLock
+                0x000000000002179c        0xa ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_SendCommand
+                0x00000000000217a6       0x40 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ *fill*         0x00000000000217e6        0x2 
+ .text.TPM2_WolfCrypt_Init
+                0x00000000000217e8       0x20 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .text.TPM2_GetActiveCtx
+                0x0000000000021808        0xc ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x0000000000021808                TPM2_GetActiveCtx
+ .text.TPM2_SetActiveCtx
+                0x0000000000021814       0x14 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x0000000000021814                TPM2_SetActiveCtx
+ .text.TPM2_SetSessionAuth
+                0x0000000000021828       0x3c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x0000000000021828                TPM2_SetSessionAuth
+ .text.TPM2_ChipStartup
+                0x0000000000021864       0x5a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x0000000000021864                TPM2_ChipStartup
+ .text.TPM2_SetHalIoCb
+                0x00000000000218be       0x46 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x00000000000218be                TPM2_SetHalIoCb
+ .text.TPM2_Init_ex
+                0x0000000000021904       0x6a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x0000000000021904                TPM2_Init_ex
+ .text.TPM2_Startup
+                0x000000000002196e       0x70 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x000000000002196e                TPM2_Startup
+ .text.TPM2_GetCapability
+                0x00000000000219de      0x11c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x00000000000219de                TPM2_GetCapability
+ .text.TPM2_PCR_Read
+                0x0000000000021afa      0x10e ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x0000000000021afa                TPM2_PCR_Read
+ .text.TPM2_SetupPCRSel
+                0x0000000000021c08       0x56 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                0x0000000000021c08                TPM2_SetupPCRSel
+ .text.ByteReverseWord16
+                0x0000000000021c5e       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.ByteReverseWord32
+                0x0000000000021c74        0xe ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .text.TPM2_Packet_SwapU32
+                0x0000000000021c82       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021c82                TPM2_Packet_SwapU32
+ .text.TPM2_Packet_Init
+                0x0000000000021c98       0x30 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021c98                TPM2_Packet_Init
+ .text.TPM2_Packet_AppendU8
+                0x0000000000021cc8       0x3e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021cc8                TPM2_Packet_AppendU8
+ .text.TPM2_Packet_ParseU8
+                0x0000000000021d06       0x54 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021d06                TPM2_Packet_ParseU8
+ .text.TPM2_Packet_AppendU16
+                0x0000000000021d5a       0x5a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021d5a                TPM2_Packet_AppendU16
+ .text.TPM2_Packet_ParseU16
+                0x0000000000021db4       0x6a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021db4                TPM2_Packet_ParseU16
+ .text.TPM2_Packet_AppendU32
+                0x0000000000021e1e       0x50 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021e1e                TPM2_Packet_AppendU32
+ .text.TPM2_Packet_ParseU32
+                0x0000000000021e6e       0x66 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021e6e                TPM2_Packet_ParseU32
+ .text.TPM2_Packet_AppendBytes
+                0x0000000000021ed4       0x4e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021ed4                TPM2_Packet_AppendBytes
+ .text.TPM2_Packet_ParseBytes
+                0x0000000000021f22       0x5e ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021f22                TPM2_Packet_ParseBytes
+ .text.TPM2_Packet_AppendPCR
+                0x0000000000021f80       0x96 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000021f80                TPM2_Packet_AppendPCR
+ .text.TPM2_Packet_ParsePCR
+                0x0000000000022016       0x90 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x0000000000022016                TPM2_Packet_ParsePCR
+ .text.TPM2_Packet_Parse
+                0x00000000000220a6       0x4c ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x00000000000220a6                TPM2_Packet_Parse
+ .text.TPM2_Packet_Finalize
+                0x00000000000220f2       0x46 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                0x00000000000220f2                TPM2_Packet_Finalize
+ .text.TPM2_TIS_Read
+                0x0000000000022138       0xba ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x0000000000022138                TPM2_TIS_Read
+ .text.TPM2_TIS_Write
+                0x00000000000221f2       0xa6 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x00000000000221f2                TPM2_TIS_Write
+ .text.TPM2_TIS_StartupWait
+                0x0000000000022298       0x64 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x0000000000022298                TPM2_TIS_StartupWait
+ .text.TPM2_TIS_CheckLocality
+                0x00000000000222fc       0x26 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x00000000000222fc                TPM2_TIS_CheckLocality
+ .text.TPM2_TIS_CheckLocalityAccessValid
+                0x0000000000022322       0x2c ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .text.TPM2_TIS_RequestLocality
+                0x000000000002234e       0xc2 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x000000000002234e                TPM2_TIS_RequestLocality
+ .text.TPM2_TIS_GetInfo
+                0x0000000000022410       0x88 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x0000000000022410                TPM2_TIS_GetInfo
+ .text.TPM2_TIS_Status
+                0x0000000000022498       0x2a ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x0000000000022498                TPM2_TIS_Status
+ *fill*         0x00000000000224c2        0x2 
+ .text.TPM2_TIS_WaitForStatus
+                0x00000000000224c4       0x74 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x00000000000224c4                TPM2_TIS_WaitForStatus
+ .text.TPM2_TIS_Ready
+                0x0000000000022538       0x30 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x0000000000022538                TPM2_TIS_Ready
+ .text.TPM2_TIS_GetBurstCount
+                0x0000000000022568       0x88 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x0000000000022568                TPM2_TIS_GetBurstCount
+ .text.TPM2_TIS_SendCommand
+                0x00000000000225f0      0x234 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                0x00000000000225f0                TPM2_TIS_SendCommand
+ .text.wolfTPM2_Init_ex
+                0x0000000000022824       0x6c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_Init
+                0x0000000000022890       0x64 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+                0x0000000000022890                wolfTPM2_Init
+ .text.wolfTPM2_ParseCapabilities
+                0x00000000000228f4      0x2bc ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetCapabilities_NoDev
+                0x0000000000022bb0      0x10a ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .text.wolfTPM2_GetCapabilities
+                0x0000000000022cba       0x24 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+                0x0000000000022cba                wolfTPM2_GetCapabilities
+ .text.wolfTPM2_SetAuth
+                0x0000000000022cde       0xae ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+                0x0000000000022cde                wolfTPM2_SetAuth
+ .text.wolfTPM2_SetAuthPassword
+                0x0000000000022d8c       0x2c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+                0x0000000000022d8c                wolfTPM2_SetAuthPassword
+ .text.memcmp   0x0000000000022db8       0x68 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcmp.o)
+                0x0000000000022db8                memcmp
+ .text          0x0000000000022e20       0xec /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+                0x0000000000022e20                memcpy
+ .text.memset   0x0000000000022f0c       0xa4 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memset.o)
+                0x0000000000022f0c                memset
+ .text.strlen   0x0000000000022fb0       0x5c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+                0x0000000000022fb0                strlen
+ *(.rodata*)
+ .rodata        0x000000000002300c       0x68 ./src/app_stm32f4.o
+ .rodata.flash_sector
+                0x0000000000023074       0x34 ../wolfBoot/hal/stm32f4.o
+                0x0000000000023074                flash_sector
+ .rodata.wolfboot_magic_trail
+                0x00000000000230a8        0x4 ../wolfBoot/src/libwolfboot.o
+ .rodata        0x00000000000230ac       0x26 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+                0x00000000000230d4                . = ALIGN (0x4)
+ *fill*         0x00000000000230d2        0x2 
+                0x00000000000230d4                _end_text = .
+                0x00000000000230d4                _stored_data = .
+
+.glue_7         0x00000000000230d4        0x0
+ .glue_7        0x00000000000230d4        0x0 linker stubs
+
+.glue_7t        0x00000000000230d4        0x0
+ .glue_7t       0x00000000000230d4        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000230d4        0x0
+ .vfp11_veneer  0x00000000000230d4        0x0 linker stubs
+
+.v4_bx          0x00000000000230d4        0x0
+ .v4_bx         0x00000000000230d4        0x0 linker stubs
+
+.iplt           0x00000000000230d4        0x0
+ .iplt          0x00000000000230d4        0x0 ./src/app_stm32f4.o
+
+.rel.dyn        0x00000000000230d4        0x0
+ .rel.iplt      0x00000000000230d4        0x0 ./src/app_stm32f4.o
+
+.data           0x0000000020000000        0x4 load address 0x00000000000230d4
+                0x0000000020000000                _start_data = .
+ *(.data*)
+ .data          0x0000000020000000        0x0 ./src/app_stm32f4.o
+ .data          0x0000000020000000        0x0 ./src/led.o
+ .data          0x0000000020000000        0x0 ./src/system.o
+ .data          0x0000000020000000        0x0 ./src/timer.o
+ .data          0x0000000020000000        0x0 ../wolfBoot/hal/stm32f4.o
+ .data          0x0000000020000000        0x0 ../wolfBoot/src/libwolfboot.o
+ .data          0x0000000020000000        0x0 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .data          0x0000000020000000        0x4 ./src/startup_arm.o
+ .data          0x0000000020000004        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .data          0x0000000020000004        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .data          0x0000000020000004        0x0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .data          0x0000000020000004        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .data          0x0000000020000004        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .data          0x0000000020000004        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .data          0x0000000020000004        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .data          0x0000000020000004        0x0 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .data          0x0000000020000004        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcmp.o)
+ .data          0x0000000020000004        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+ .data          0x0000000020000004        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memset.o)
+ .data          0x0000000020000004        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+                0x0000000020000004                . = ALIGN (0x4)
+ *(.ramcode)
+                0x0000000020000004                . = ALIGN (0x4)
+                0x0000000020000004                _end_data = .
+
+.igot.plt       0x0000000020000004        0x0 load address 0x00000000000230d8
+ .igot.plt      0x0000000020000004        0x0 ./src/app_stm32f4.o
+
+.bss            0x0000000020000004     0x14a8 load address 0x00000000000230d8
+                0x0000000020000004                _start_bss = .
+ *(.bss*)
+ .bss           0x0000000020000004     0x1484 ./src/app_stm32f4.o
+                0x0000000020001484                time_elapsed
+ .bss           0x0000000020001488        0x8 ./src/timer.o
+ .bss.initialized.0
+                0x0000000020001490        0x4 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .bss           0x0000000020001494        0xc ./src/startup_arm.o
+ .bss.initRefCount
+                0x00000000200014a0        0x4 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .bss.gActiveTPM
+                0x00000000200014a4        0x4 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .bss.gWolfCryptRefCount
+                0x00000000200014a8        0x4 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ *(COMMON)
+                0x00000000200014ac                . = ALIGN (0x4)
+                0x00000000200014ac                _end_bss = .
+                0x00000000200014ac                _end = .
+                0x00000000200014ac                PROVIDE (_start_heap = _end)
+                0x0000000020004000                PROVIDE (_end_stack = (ORIGIN (RAM) + LENGTH (RAM)))
+OUTPUT(image.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000    0x1cd20
+ .debug_info    0x0000000000000000     0x15a7 ./src/app_stm32f4.o
+ .debug_info    0x00000000000015a7       0xd3 ./src/led.o
+ .debug_info    0x000000000000167a       0xb4 ./src/system.o
+ .debug_info    0x000000000000172e      0x233 ./src/timer.o
+ .debug_info    0x0000000000001961      0x353 ../wolfBoot/hal/stm32f4.o
+ .debug_info    0x0000000000001cb4      0x5f4 ../wolfBoot/src/libwolfboot.o
+ .debug_info    0x00000000000022a8      0x24a ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_info    0x00000000000024f2      0x19d ./src/startup_arm.o
+ .debug_info    0x000000000000268f      0xa11 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_info    0x00000000000030a0      0xec3 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_info    0x0000000000003f63      0x57f ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_info    0x00000000000044e2     0xa3fe ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_info    0x000000000000e8e0     0x355f ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_info    0x0000000000011e3f     0x17e6 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_info    0x0000000000013625     0x7cef ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_info    0x000000000001b314     0x1a0c ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+
+.debug_abbrev   0x0000000000000000     0x21ab
+ .debug_abbrev  0x0000000000000000      0x3b0 ./src/app_stm32f4.o
+ .debug_abbrev  0x00000000000003b0       0x83 ./src/led.o
+ .debug_abbrev  0x0000000000000433       0x83 ./src/system.o
+ .debug_abbrev  0x00000000000004b6      0x115 ./src/timer.o
+ .debug_abbrev  0x00000000000005cb      0x18b ../wolfBoot/hal/stm32f4.o
+ .debug_abbrev  0x0000000000000756      0x1c8 ../wolfBoot/src/libwolfboot.o
+ .debug_abbrev  0x000000000000091e      0x173 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_abbrev  0x0000000000000a91       0xdb ./src/startup_arm.o
+ .debug_abbrev  0x0000000000000b6c      0x213 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_abbrev  0x0000000000000d7f      0x2ce ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_abbrev  0x000000000000104d      0x136 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_abbrev  0x0000000000001183      0x3c0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_abbrev  0x0000000000001543      0x336 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_abbrev  0x0000000000001879      0x2bd ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_abbrev  0x0000000000001b36      0x3d2 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_abbrev  0x0000000000001f08      0x2a3 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+
+.debug_aranges  0x0000000000000000      0xe30
+ .debug_aranges
+                0x0000000000000000       0x20 ./src/app_stm32f4.o
+ .debug_aranges
+                0x0000000000000020       0x20 ./src/led.o
+ .debug_aranges
+                0x0000000000000040       0x20 ./src/system.o
+ .debug_aranges
+                0x0000000000000060       0x20 ./src/timer.o
+ .debug_aranges
+                0x0000000000000080       0x78 ../wolfBoot/hal/stm32f4.o
+ .debug_aranges
+                0x00000000000000f8       0xc0 ../wolfBoot/src/libwolfboot.o
+ .debug_aranges
+                0x00000000000001b8       0x70 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_aranges
+                0x0000000000000228       0x20 ./src/startup_arm.o
+ .debug_aranges
+                0x0000000000000248       0x60 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_aranges
+                0x00000000000002a8       0xb0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_aranges
+                0x0000000000000358       0x68 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_aranges
+                0x00000000000003c0      0x490 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_aranges
+                0x0000000000000850      0x1e8 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_aranges
+                0x0000000000000a38       0x78 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_aranges
+                0x0000000000000ab0      0x328 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_aranges
+                0x0000000000000dd8       0x58 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+
+.debug_macro    0x0000000000000000     0x89cc
+ .debug_macro   0x0000000000000000      0x45f ./src/app_stm32f4.o
+ .debug_macro   0x000000000000045f      0xa90 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000000eef       0x18 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000000f07       0x22 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000000f29       0x5e ./src/app_stm32f4.o
+ .debug_macro   0x0000000000000f87       0x94 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000101b       0x35 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001050       0x34 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001084       0x16 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000109a      0x10e ./src/app_stm32f4.o
+ .debug_macro   0x00000000000011a8       0x8d ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001235       0x16 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000124b       0x43 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000128e       0x57 ./src/app_stm32f4.o
+ .debug_macro   0x00000000000012e5       0x34 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001319       0x10 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001329       0x58 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001381      0x182 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001503      0x341 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001844       0x16 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000185a       0x29 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001883      0x34e ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001bd1       0x16 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001be7       0x35 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001c1c       0x3a ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001c56      0x103 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000001d59      0x3e5 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000213e       0x40 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000217e       0xfd ./src/app_stm32f4.o
+ .debug_macro   0x000000000000227b       0x22 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000229d       0x5a ./src/app_stm32f4.o
+ .debug_macro   0x00000000000022f7      0x18c ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002483       0x4c ./src/app_stm32f4.o
+ .debug_macro   0x00000000000024cf       0x16 ./src/app_stm32f4.o
+ .debug_macro   0x00000000000024e5       0x10 ./src/app_stm32f4.o
+ .debug_macro   0x00000000000024f5       0x16 ./src/app_stm32f4.o
+ .debug_macro   0x000000000000250b      0x106 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002611       0xba ./src/app_stm32f4.o
+ .debug_macro   0x00000000000026cb       0x48 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002713       0x5c ./src/app_stm32f4.o
+ .debug_macro   0x000000000000276f       0xc1 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002830      0x11f ./src/app_stm32f4.o
+ .debug_macro   0x000000000000294f       0x66 ./src/app_stm32f4.o
+ .debug_macro   0x00000000000029b5       0x57 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002a0c       0x18 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002a24       0x35 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002a59       0x18 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002a71       0x10 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002a81       0x54 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002ad5       0x7c ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002b51       0x17 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002b68      0x118 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000002c80     0x10a6 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000003d26     0x10b3 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000004dd9       0xab ./src/app_stm32f4.o
+ .debug_macro   0x0000000000004e84       0x1c ./src/app_stm32f4.o
+ .debug_macro   0x0000000000004ea0       0xdd ./src/app_stm32f4.o
+ .debug_macro   0x0000000000004f7d       0x51 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000004fce       0x31 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000004fff       0x16 ./src/app_stm32f4.o
+ .debug_macro   0x0000000000005015      0x25d ./src/app_stm32f4.o
+ .debug_macro   0x0000000000005272       0x43 ./src/app_stm32f4.o
+ .debug_macro   0x00000000000052b5       0x4c ./src/app_stm32f4.o
+ .debug_macro   0x0000000000005301       0x90 ./src/led.o
+ .debug_macro   0x0000000000005391       0xd5 ./src/system.o
+ .debug_macro   0x0000000000005466      0x109 ./src/timer.o
+ .debug_macro   0x000000000000556f      0x205 ../wolfBoot/hal/stm32f4.o
+ .debug_macro   0x0000000000005774      0xaea ../wolfBoot/hal/stm32f4.o
+ .debug_macro   0x000000000000625e      0x103 ../wolfBoot/hal/stm32f4.o
+ .debug_macro   0x0000000000006361      0x119 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x000000000000647a       0x3a ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x00000000000064b4       0x82 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x0000000000006536      0x3e5 ../wolfBoot/src/libwolfboot.o
+ .debug_macro   0x000000000000691b       0x66 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_macro   0x0000000000006981       0x17 ./src/startup_arm.o
+ .debug_macro   0x0000000000006998      0x1af ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000006b47      0x166 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000006cad      0x123 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000006dd0       0x42 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000006e12       0x62 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000006e74      0x174 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000006fe8       0x51 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000007039       0x10 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000007049       0x5f ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x00000000000070a8       0x74 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x000000000000711c       0x12 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x000000000000712e       0x23 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000007151       0x1f ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_macro   0x0000000000007170      0x1d8 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x0000000000007348       0x17 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_macro   0x000000000000735f      0x1ee ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x000000000000754d       0x53 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x00000000000075a0       0xdd ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x000000000000767d      0x23b ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x00000000000078b8       0x31 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_macro   0x00000000000078e9      0x2d0 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000007bb9       0x31 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000007bea       0x29 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000007c13      0x23a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000007e4d       0x10 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000007e5d       0x28 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000007e85       0x16 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_macro   0x0000000000007e9b      0x2b1 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_macro   0x000000000000814c      0x2eb ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000008437       0x22 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_macro   0x0000000000008459      0x29f ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x00000000000086f8       0x40 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_macro   0x0000000000008738      0x294 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+
+.debug_line     0x0000000000000000     0xb985
+ .debug_line    0x0000000000000000      0x95b ./src/app_stm32f4.o
+ .debug_line    0x000000000000095b      0x16d ./src/led.o
+ .debug_line    0x0000000000000ac8      0x18e ./src/system.o
+ .debug_line    0x0000000000000c56      0x1b0 ./src/timer.o
+ .debug_line    0x0000000000000e06      0x462 ../wolfBoot/hal/stm32f4.o
+ .debug_line    0x0000000000001268      0x5c5 ../wolfBoot/src/libwolfboot.o
+ .debug_line    0x000000000000182d      0x3a3 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_line    0x0000000000001bd0       0xb3 ./src/startup_arm.o
+ .debug_line    0x0000000000001c83      0x5d7 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_line    0x000000000000225a      0xfdf ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_line    0x0000000000003239      0x5e3 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_line    0x000000000000381c     0x3bc2 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_line    0x00000000000073de     0x10e6 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_line    0x00000000000084c4      0x816 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_line    0x0000000000008cda     0x24d8 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_line    0x000000000000b1b2      0x7d3 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+
+.debug_str      0x0000000000000000    0x18709
+ .debug_str     0x0000000000000000     0xe880 ./src/app_stm32f4.o
+                                       0xeb9d (size before relaxing)
+ .debug_str     0x000000000000e880      0x246 ./src/led.o
+                                       0x3ff1 (size before relaxing)
+ .debug_str     0x000000000000eac6      0x2e6 ./src/system.o
+                                       0x3bce (size before relaxing)
+ .debug_str     0x000000000000edac      0x51e ./src/timer.o
+                                       0x3f79 (size before relaxing)
+ .debug_str     0x000000000000f2ca      0x860 ../wolfBoot/hal/stm32f4.o
+                                       0x4a94 (size before relaxing)
+ .debug_str     0x000000000000fb2a      0x4cf ../wolfBoot/src/libwolfboot.o
+                                       0x5c84 (size before relaxing)
+ .debug_str     0x000000000000fff9       0xc3 ../wolfBoot/hal/spi/spi_drv_stm32.o
+                                       0x49fe (size before relaxing)
+ .debug_str     0x00000000000100bc       0xf5 ./src/startup_arm.o
+                                       0x2e47 (size before relaxing)
+ .debug_str     0x00000000000101b1      0xe51 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+                                       0x87c8 (size before relaxing)
+ .debug_str     0x0000000000011002      0xb03 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+                                       0x8e5a (size before relaxing)
+ .debug_str     0x0000000000011b05     0x15d6 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+                                       0x96d6 (size before relaxing)
+ .debug_str     0x00000000000130db     0x307c ../wolfBoot/lib/wolfTPM/src/tpm2.o
+                                       0xfdbc (size before relaxing)
+ .debug_str     0x0000000000016157      0x6dc ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+                                       0xdd98 (size before relaxing)
+ .debug_str     0x0000000000016833      0x4f6 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+                                       0xceb8 (size before relaxing)
+ .debug_str     0x0000000000016d29     0x18c9 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+                                       0xfbb3 (size before relaxing)
+ .debug_str     0x00000000000185f2      0x117 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+                                       0xcce9 (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 ./src/app_stm32f4.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a ./src/led.o
+ .comment       0x0000000000000049       0x4a ./src/system.o
+ .comment       0x0000000000000049       0x4a ./src/timer.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/hal/stm32f4.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/src/libwolfboot.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .comment       0x0000000000000049       0x4a ./src/startup_arm.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+
+.ARM.attributes
+                0x0000000000000000       0x2b
+ .ARM.attributes
+                0x0000000000000000       0x2d ./src/app_stm32f4.o
+ .ARM.attributes
+                0x000000000000002d       0x2d ./src/led.o
+ .ARM.attributes
+                0x000000000000005a       0x2d ./src/system.o
+ .ARM.attributes
+                0x0000000000000087       0x2d ./src/timer.o
+ .ARM.attributes
+                0x00000000000000b4       0x2d ../wolfBoot/hal/stm32f4.o
+ .ARM.attributes
+                0x00000000000000e1       0x2d ../wolfBoot/src/libwolfboot.o
+ .ARM.attributes
+                0x000000000000010e       0x2d ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .ARM.attributes
+                0x000000000000013b       0x2d ./src/startup_arm.o
+ .ARM.attributes
+                0x0000000000000168       0x2d ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .ARM.attributes
+                0x0000000000000195       0x2d ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .ARM.attributes
+                0x00000000000001c2       0x2d ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .ARM.attributes
+                0x00000000000001ef       0x2d ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .ARM.attributes
+                0x000000000000021c       0x2d ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .ARM.attributes
+                0x0000000000000249       0x2d ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .ARM.attributes
+                0x0000000000000276       0x2d ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .ARM.attributes
+                0x00000000000002a3       0x2d ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .ARM.attributes
+                0x00000000000002d0       0x2d /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000000000002fd       0x1b /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000318       0x2d /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000345       0x2d /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+
+.debug_frame    0x0000000000000000     0x2f84
+ .debug_frame   0x0000000000000000      0x138 ./src/app_stm32f4.o
+ .debug_frame   0x0000000000000138       0x40 ./src/led.o
+ .debug_frame   0x0000000000000178       0x38 ./src/system.o
+ .debug_frame   0x00000000000001b0       0x8c ./src/timer.o
+ .debug_frame   0x000000000000023c      0x120 ../wolfBoot/hal/stm32f4.o
+ .debug_frame   0x000000000000035c      0x244 ../wolfBoot/src/libwolfboot.o
+ .debug_frame   0x00000000000005a0      0x114 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_frame   0x00000000000006b4       0x7c ./src/startup_arm.o
+ .debug_frame   0x0000000000000730       0xfc ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_frame   0x000000000000082c      0x210 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_frame   0x0000000000000a3c      0x108 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_frame   0x0000000000000b44      0xf90 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_frame   0x0000000000001ad4      0x660 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_frame   0x0000000000002134      0x168 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_frame   0x000000000000229c      0xb6c ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_frame   0x0000000000002e08      0x108 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o
+ .debug_frame   0x0000000000002f10       0x28 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memcmp.o)
+ .debug_frame   0x0000000000002f38       0x2c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-memset.o)
+ .debug_frame   0x0000000000002f64       0x20 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg.a(lib_a-strlen-stub.o)
+
+.debug_ranges   0x0000000000000000      0xce0
+ .debug_ranges  0x0000000000000000       0x68 ../wolfBoot/hal/stm32f4.o
+ .debug_ranges  0x0000000000000068       0xb0 ../wolfBoot/src/libwolfboot.o
+ .debug_ranges  0x0000000000000118       0x60 ../wolfBoot/hal/spi/spi_drv_stm32.o
+ .debug_ranges  0x0000000000000178       0x50 ../wolfBoot/lib/wolfssl/wolfcrypt/src/hmac.o
+ .debug_ranges  0x00000000000001c8       0xa0 ../wolfBoot/lib/wolfssl/wolfcrypt/src/aes.o
+ .debug_ranges  0x0000000000000268       0x58 ../wolfBoot/lib/wolfssl/wolfcrypt/src/wc_port.o
+ .debug_ranges  0x00000000000002c0      0x480 ../wolfBoot/lib/wolfTPM/src/tpm2.o
+ .debug_ranges  0x0000000000000740      0x1d8 ../wolfBoot/lib/wolfTPM/src/tpm2_packet.o
+ .debug_ranges  0x0000000000000918       0x68 ../wolfBoot/lib/wolfTPM/src/tpm2_tis.o
+ .debug_ranges  0x0000000000000980      0x318 ../wolfBoot/lib/wolfTPM/src/tpm2_wrap.o
+ .debug_ranges  0x0000000000000c98       0x48 ../wolfBoot/lib/wolfTPM/src/tpm2_param_enc.o

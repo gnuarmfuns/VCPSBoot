@@ -1,0 +1,2457 @@
+Archive member included to satisfy reference by file (symbol)
+
+build/lib/libpicotcp.a(pico_ipv4.o)
+                              src/main.o (pico_string_to_ipv4)
+build/lib/libpicotcp.a(pico_udp.o)
+                              build/lib/libpicotcp.a(pico_ipv4.o) (pico_proto_udp)
+build/lib/libpicotcp.a(pico_device.o)
+                              src/pico_enet_kinetis.o (pico_device_init)
+build/lib/libpicotcp.a(pico_frame.o)
+                              build/lib/libpicotcp.a(pico_ipv4.o) (pico_frame_discard)
+build/lib/libpicotcp.a(pico_socket.o)
+                              src/main.o (pico_socket_open)
+build/lib/libpicotcp.a(pico_stack.o)
+                              src/picotcp.o (pico_rand)
+build/lib/libpicotcp.a(pico_tree.o)
+                              build/lib/libpicotcp.a(pico_ipv4.o) (pico_tree_firstNode)
+build/lib/libpicotcp.a(pico_arp.o)
+                              build/lib/libpicotcp.a(pico_stack.o) (pico_arp_init)
+build/lib/libpicotcp.a(pico_dns_client.o)
+                              build/lib/libpicotcp.a(pico_stack.o) (pico_dns_client_init)
+build/lib/libpicotcp.a(pico_dns_common.o)
+                              build/lib/libpicotcp.a(pico_dns_client.o) (pico_dns_decompress_name)
+build/lib/libpicotcp.a(pico_ethernet.o)
+                              build/lib/libpicotcp.a(pico_ipv4.o) (pico_proto_ethernet)
+build/lib/libpicotcp.a(pico_fragments.o)
+                              build/lib/libpicotcp.a(pico_ipv4.o) (pico_ipv4_process_frag)
+build/lib/libpicotcp.a(pico_icmp4.o)
+                              build/lib/libpicotcp.a(pico_socket.o) (pico_socket_icmp4_open)
+build/lib/libpicotcp.a(pico_ipfilter.o)
+                              build/lib/libpicotcp.a(pico_ipv4.o) (ipfilter)
+build/lib/libpicotcp.a(pico_socket_tcp.o)
+                              build/lib/libpicotcp.a(pico_socket.o) (pico_getsockopt_tcp)
+build/lib/libpicotcp.a(pico_socket_udp.o)
+                              build/lib/libpicotcp.a(pico_socket.o) (pico_socket_udp_open)
+build/lib/libpicotcp.a(pico_tcp.o)
+                              build/lib/libpicotcp.a(pico_socket.o) (pico_tcp_queue_in_is_empty)
+build/lib/libpicotcp.a(pico_jobs.o)
+                              build/lib/libpicotcp.a(pico_tcp.o) (pico_schedule_job)
+build/lib/libpicotcp.a(pico_protocol.o)
+                              build/lib/libpicotcp.a(pico_stack.o) (pico_protocol_datalink_loop)
+build/lib/libpicotcp.a(pico_socket_multicast.o)
+                              build/lib/libpicotcp.a(pico_socket_udp.o) (pico_socket_mcast_filter)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+                              ./build/lib/wolfcrypt/sp_c32.o (__aeabi_ldivmod)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                              ./build/lib/wolfcrypt/sp_int.o (__aeabi_uldivmod)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                              /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o) (__udivmoddi4)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                              /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+                              ./build/lib/internal.o (_ctype_)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcmp.o)
+                              ../wolfBoot/hal/kinetis.o (memcmp)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                              ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_cache.o (memcpy)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+                              ./build/lib/internal.o (memmove)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                              ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_flash.o (memset)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcasecmp.o)
+                              build/lib/libpicotcp.a(pico_dns_client.o) (strcasecmp)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcmp.o)
+                              build/lib/libpicotcp.a(pico_ipv4.o) (strcmp)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcpy.o)
+                              build/lib/libpicotcp.a(pico_dns_client.o) (strcpy)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+                              src/main.o (strlen)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncasecmp.o)
+                              ./build/lib/wolfcrypt/ecc.o (strncasecmp)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncmp.o)
+                              src/main.o (strncmp)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncpy.o)
+                              ./build/lib/internal.o (strncpy)
+/opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strstr.o)
+                              ./build/lib/internal.o (strstr)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_flash.o
+ .bss           0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_flash.o
+ .data          0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_cache.o
+ .data          0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_controller.o
+ .data          0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_enet.o
+ .text          0x0000000000000000      0x314 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_sysmpu.o
+ .data          0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_sysmpu.o
+ .bss           0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_sysmpu.o
+ .rodata.str1.1
+                0x0000000000000000      0x19d ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_sysmpu.o
+ .rodata        0x0000000000000000       0xba ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_sysmpu.o
+ .comment       0x0000000000000000       0x4a ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_sysmpu.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_sysmpu.o
+ .data          0x0000000000000000        0x0 ../wolfBoot/src/libwolfboot.o
+ .data          0x0000000000000000        0x0 ../wolfBoot/hal/kinetis.o
+ .data          0x0000000000000000        0x0 src/clock_config.o
+ .data          0x0000000000000000        0x0 src/pin_mux.o
+ .bss           0x0000000000000000        0x0 src/pin_mux.o
+ .text          0x0000000000000000        0x0 freeRTOS/croutine.o
+ .data          0x0000000000000000        0x0 freeRTOS/croutine.o
+ .bss           0x0000000000000000        0x0 freeRTOS/croutine.o
+ .comment       0x0000000000000000       0x4a freeRTOS/croutine.o
+ .ARM.attributes
+                0x0000000000000000       0x34 freeRTOS/croutine.o
+ .text          0x0000000000000000      0x364 freeRTOS/event_groups.o
+ .data          0x0000000000000000        0x0 freeRTOS/event_groups.o
+ .bss           0x0000000000000000        0x0 freeRTOS/event_groups.o
+ .comment       0x0000000000000000       0x4a freeRTOS/event_groups.o
+ .ARM.attributes
+                0x0000000000000000       0x34 freeRTOS/event_groups.o
+ .data          0x0000000000000000        0x0 freeRTOS/list.o
+ .bss           0x0000000000000000        0x0 freeRTOS/list.o
+ .data          0x0000000000000000        0x0 freeRTOS/queue.o
+ .text          0x0000000000000000      0x7b0 freeRTOS/stream_buffer.o
+ .data          0x0000000000000000        0x0 freeRTOS/stream_buffer.o
+ .bss           0x0000000000000000        0x0 freeRTOS/stream_buffer.o
+ .comment       0x0000000000000000       0x4a freeRTOS/stream_buffer.o
+ .ARM.attributes
+                0x0000000000000000       0x34 freeRTOS/stream_buffer.o
+ .data          0x0000000000000000        0x0 freeRTOS/tasks.o
+ .rodata        0x0000000000000000       0x10 freeRTOS/tasks.o
+ .data          0x0000000000000000        0x0 freeRTOS/timers.o
+ .data          0x0000000000000000        0x0 freeRTOS/portable/MemMang/heap_5.o
+ .data          0x0000000000000000        0x0 src/startup_mk64f12.o
+ .bss           0x0000000000000000        0x0 src/startup_mk64f12.o
+ .flash_config  0x0000000000000000       0x10 src/startup_mk64f12.o
+ .data          0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/components/phyksz8081/fsl_phy.o
+ .bss           0x0000000000000000        0x0 ../../SDK_2_10_0_FRDM-K64F/components/phyksz8081/fsl_phy.o
+ .text          0x0000000000000000        0x0 src/server_ecc_key.o
+ .bss           0x0000000000000000        0x0 src/server_ecc_key.o
+ .text          0x0000000000000000        0x0 src/server_ecc_cert.o
+ .data          0x0000000000000000        0x0 src/server_ecc_cert.o
+ .bss           0x0000000000000000        0x0 src/server_ecc_cert.o
+ .data          0x0000000000000000        0x0 src/picotcp.o
+ .bss           0x0000000000000000        0x0 src/picotcp.o
+ .data          0x0000000000000000        0x0 ./build/lib/internal.o
+ .bss           0x0000000000000000        0x0 ./build/lib/internal.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfio.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfio.o
+ .data          0x0000000000000000        0x0 ./build/lib/keys.o
+ .bss           0x0000000000000000        0x0 ./build/lib/keys.o
+ .text          0x0000000000000000        0x0 ./build/lib/crl.o
+ .data          0x0000000000000000        0x0 ./build/lib/crl.o
+ .bss           0x0000000000000000        0x0 ./build/lib/crl.o
+ .comment       0x0000000000000000       0x4a ./build/lib/crl.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/crl.o
+ .data          0x0000000000000000        0x0 ./build/lib/ssl.o
+ .data          0x0000000000000000        0x0 ./build/lib/tls.o
+ .bss           0x0000000000000000        0x0 ./build/lib/tls.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/aes.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/aes.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/asn.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/asn.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/chacha.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/chacha.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/chacha.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/chacha.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/chacha.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/chacha20_poly1305.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/chacha20_poly1305.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/chacha20_poly1305.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/chacha20_poly1305.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/chacha20_poly1305.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/coding.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/coding.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/curve25519.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/curve25519.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/curve25519.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/curve25519.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/curve25519.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/error.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/error.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/ecc.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/ecc.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/ed25519.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/ed25519.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/ed25519.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/ed25519.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/ed25519.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/rsa.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/rsa.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/fe_low_mem.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/fe_low_mem.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/fe_low_mem.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/fe_low_mem.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/fe_low_mem.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/fe_operations.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/fe_operations.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/fe_operations.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/fe_operations.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/fe_operations.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/ge_low_mem.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/ge_low_mem.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/ge_low_mem.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/ge_low_mem.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/ge_low_mem.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/ge_operations.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/ge_operations.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/ge_operations.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/ge_operations.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/ge_operations.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/hash.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/hash.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/hmac.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/hmac.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/integer.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/integer.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/integer.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/integer.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/integer.o
+ .text          0x0000000000000000       0x12 ./build/lib/wolfcrypt/logging.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/logging.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/logging.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/logging.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/logging.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/md5.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/md5.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/memory.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/memory.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/memory.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/memory.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/memory.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/poly1305.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/poly1305.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/poly1305.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/poly1305.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/poly1305.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/pwdbased.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/pwdbased.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/random.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/random.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/sha.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/sha.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/sha256.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/sha256.o
+ .text          0x0000000000000000        0x0 ./build/lib/wolfcrypt/sha512.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/sha512.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/sha512.o
+ .comment       0x0000000000000000       0x4a ./build/lib/wolfcrypt/sha512.o
+ .ARM.attributes
+                0x0000000000000000       0x34 ./build/lib/wolfcrypt/sha512.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/wc_encrypt.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/wc_encrypt.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/wc_port.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/wolfmath.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/wolfmath.o
+ .rodata        0x0000000000000000        0x8 ./build/lib/wolfcrypt/wolfmath.o
+ .bss           0x0000000000000000        0x0 ./build/lib/tls13.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/sp_c32.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/sp_c32.o
+ .data          0x0000000000000000        0x0 ./build/lib/wolfcrypt/sp_int.o
+ .bss           0x0000000000000000        0x0 ./build/lib/wolfcrypt/sp_int.o
+ .data          0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_frame.o)
+ .bss           0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_frame.o)
+ .bss           0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_tree.o)
+ .data          0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_dns_common.o)
+ .bss           0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_dns_common.o)
+ .bss           0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_ipfilter.o)
+ .data          0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_socket_tcp.o)
+ .bss           0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_socket_tcp.o)
+ .data          0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_socket_udp.o)
+ .bss           0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_socket_udp.o)
+ .data          0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_jobs.o)
+ .bss           0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_protocol.o)
+ .data          0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_socket_multicast.o)
+ .bss           0x0000000000000000        0x0 build/lib/libpicotcp.a(pico_socket_multicast.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.extab     0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcmp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcmp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcasecmp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcasecmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcasecmp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcmp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncasecmp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncasecmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncasecmp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncmp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncmp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncpy.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strstr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strstr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strstr.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x000000000000a100 0x000000000007a000 xr
+SRAM_LO_STACK    0x000000001fff0000 0x0000000000008000 xrw
+SRAM_LO          0x000000001fffc000 0x0000000000004000 xrw
+SRAM_HI          0x0000000020000000 0x0000000000030000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+START GROUP
+LOAD ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+LOAD ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_flash.o
+LOAD ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_cache.o
+LOAD ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_controller.o
+LOAD ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_enet.o
+LOAD ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_sysmpu.o
+LOAD ../wolfBoot/src/libwolfboot.o
+LOAD ../wolfBoot/hal/kinetis.o
+LOAD src/clock_config.o
+LOAD src/main.o
+LOAD src/pin_mux.o
+LOAD freeRTOS/croutine.o
+LOAD freeRTOS/event_groups.o
+LOAD freeRTOS/list.o
+LOAD freeRTOS/queue.o
+LOAD freeRTOS/stream_buffer.o
+LOAD freeRTOS/tasks.o
+LOAD freeRTOS/timers.o
+LOAD freeRTOS/portable/GCC/ARM_CM4F/port.o
+LOAD freeRTOS/portable/MemMang/heap_5.o
+LOAD src/startup_mk64f12.o
+LOAD src/pico_enet_kinetis.o
+LOAD ../../SDK_2_10_0_FRDM-K64F/components/phyksz8081/fsl_phy.o
+LOAD src/server_ecc_key.o
+LOAD src/server_ecc_cert.o
+LOAD src/picotcp.o
+LOAD ./build/lib/internal.o
+LOAD ./build/lib/wolfio.o
+LOAD ./build/lib/keys.o
+LOAD ./build/lib/crl.o
+LOAD ./build/lib/ssl.o
+LOAD ./build/lib/tls.o
+LOAD ./build/lib/wolfcrypt/aes.o
+LOAD ./build/lib/wolfcrypt/asn.o
+LOAD ./build/lib/wolfcrypt/chacha.o
+LOAD ./build/lib/wolfcrypt/chacha20_poly1305.o
+LOAD ./build/lib/wolfcrypt/coding.o
+LOAD ./build/lib/wolfcrypt/curve25519.o
+LOAD ./build/lib/wolfcrypt/error.o
+LOAD ./build/lib/wolfcrypt/ecc.o
+LOAD ./build/lib/wolfcrypt/ed25519.o
+LOAD ./build/lib/wolfcrypt/rsa.o
+LOAD ./build/lib/wolfcrypt/fe_low_mem.o
+LOAD ./build/lib/wolfcrypt/fe_operations.o
+LOAD ./build/lib/wolfcrypt/ge_low_mem.o
+LOAD ./build/lib/wolfcrypt/ge_operations.o
+LOAD ./build/lib/wolfcrypt/hash.o
+LOAD ./build/lib/wolfcrypt/hmac.o
+LOAD ./build/lib/wolfcrypt/integer.o
+LOAD ./build/lib/wolfcrypt/logging.o
+LOAD ./build/lib/wolfcrypt/md5.o
+LOAD ./build/lib/wolfcrypt/memory.o
+LOAD ./build/lib/wolfcrypt/poly1305.o
+LOAD ./build/lib/wolfcrypt/pwdbased.o
+LOAD ./build/lib/wolfcrypt/random.o
+LOAD ./build/lib/wolfcrypt/sha.o
+LOAD ./build/lib/wolfcrypt/sha256.o
+LOAD ./build/lib/wolfcrypt/sha512.o
+LOAD ./build/lib/wolfcrypt/wc_encrypt.o
+LOAD ./build/lib/wolfcrypt/wc_port.o
+LOAD ./build/lib/wolfcrypt/wolfmath.o
+LOAD ./build/lib/tls13.o
+LOAD ./build/lib/wolfcrypt/sp_c32.o
+LOAD ./build/lib/wolfcrypt/sp_int.o
+LOAD build/lib/libpicotcp.a
+END GROUP
+START GROUP
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+START GROUP
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a
+END GROUP
+
+.text           0x000000000000a100    0x36970
+                0x000000000000a100                _start_text = .
+ *(.isr_vector)
+ .isr_vector    0x000000000000a100      0x198 src/startup_mk64f12.o
+                0x000000000000a100                __Vectors
+                0x000000000000a100                g_pfnVectors
+ *(.after_vectors*)
+ .after_vectors
+                0x000000000000a298       0x14 src/startup_mk64f12.o
+                0x000000000000a298                NMI_Handler
+                0x000000000000a29a                HardFault_Handler
+                0x000000000000a29c                MemManage_Handler
+                0x000000000000a29e                BusFault_Handler
+                0x000000000000a2a0                UsageFault_Handler
+                0x000000000000a2a4                DebugMon_Handler
+                0x000000000000a2aa                DMA0_DriverIRQHandler
+                0x000000000000a2aa                PORTB_DriverIRQHandler
+                0x000000000000a2aa                DMA12_DriverIRQHandler
+                0x000000000000a2aa                SPI1_DriverIRQHandler
+                0x000000000000a2aa                LPTMR0_DriverIRQHandler
+                0x000000000000a2aa                DMA_Error_DriverIRQHandler
+                0x000000000000a2aa                FTM1_DriverIRQHandler
+                0x000000000000a2aa                FTM2_DriverIRQHandler
+                0x000000000000a2aa                PIT2_DriverIRQHandler
+                0x000000000000a2aa                SDHC_DriverIRQHandler
+                0x000000000000a2aa                I2S0_Tx_DriverIRQHandler
+                0x000000000000a2aa                RTC_Seconds_DriverIRQHandler
+                0x000000000000a2aa                DMA6_DriverIRQHandler
+                0x000000000000a2aa                LLWU_DriverIRQHandler
+                0x000000000000a2aa                MCM_DriverIRQHandler
+                0x000000000000a2aa                MCG_DriverIRQHandler
+                0x000000000000a2aa                I2C2_DriverIRQHandler
+                0x000000000000a2aa                DAC1_DriverIRQHandler
+                0x000000000000a2aa                CMP1_DriverIRQHandler
+                0x000000000000a2aa                UART5_RX_TX_DriverIRQHandler
+                0x000000000000a2aa                FTM0_DriverIRQHandler
+                0x000000000000a2aa                IntDefaultHandler
+                0x000000000000a2aa                USB0_DriverIRQHandler
+                0x000000000000a2aa                UART5_ERR_DriverIRQHandler
+                0x000000000000a2aa                PORTC_DriverIRQHandler
+                0x000000000000a2aa                DMA11_DriverIRQHandler
+                0x000000000000a2aa                DAC0_DriverIRQHandler
+                0x000000000000a2aa                DMA10_DriverIRQHandler
+                0x000000000000a2aa                CMP2_DriverIRQHandler
+                0x000000000000a2aa                UART2_ERR_DriverIRQHandler
+                0x000000000000a2aa                SPI2_DriverIRQHandler
+                0x000000000000a2aa                LVD_LVW_DriverIRQHandler
+                0x000000000000a2aa                PIT0_DriverIRQHandler
+                0x000000000000a2aa                RNG_DriverIRQHandler
+                0x000000000000a2aa                DMA5_DriverIRQHandler
+                0x000000000000a2aa                DMA4_DriverIRQHandler
+                0x000000000000a2aa                UART2_RX_TX_DriverIRQHandler
+                0x000000000000a2aa                USBDCD_DriverIRQHandler
+                0x000000000000a2aa                UART3_ERR_DriverIRQHandler
+                0x000000000000a2aa                DMA3_DriverIRQHandler
+                0x000000000000a2aa                DMA8_DriverIRQHandler
+                0x000000000000a2aa                DMA9_DriverIRQHandler
+                0x000000000000a2aa                UART0_ERR_DriverIRQHandler
+                0x000000000000a2aa                CMT_DriverIRQHandler
+                0x000000000000a2aa                Reserved71_DriverIRQHandler
+                0x000000000000a2aa                ADC1_DriverIRQHandler
+                0x000000000000a2aa                PORTA_DriverIRQHandler
+                0x000000000000a2aa                DMA14_DriverIRQHandler
+                0x000000000000a2aa                PIT3_DriverIRQHandler
+                0x000000000000a2aa                PIT1_DriverIRQHandler
+                0x000000000000a2aa                WDOG_EWM_DriverIRQHandler
+                0x000000000000a2aa                PDB0_DriverIRQHandler
+                0x000000000000a2aa                RTC_DriverIRQHandler
+                0x000000000000a2aa                I2S0_Rx_DriverIRQHandler
+                0x000000000000a2aa                Read_Collision_DriverIRQHandler
+                0x000000000000a2aa                SWI_DriverIRQHandler
+                0x000000000000a2aa                UART4_RX_TX_DriverIRQHandler
+                0x000000000000a2aa                UART4_ERR_DriverIRQHandler
+                0x000000000000a2aa                UART0_LON_DriverIRQHandler
+                0x000000000000a2aa                DMA1_DriverIRQHandler
+                0x000000000000a2aa                I2C1_DriverIRQHandler
+                0x000000000000a2aa                UART3_RX_TX_DriverIRQHandler
+                0x000000000000a2aa                DMA13_DriverIRQHandler
+                0x000000000000a2aa                DMA15_DriverIRQHandler
+                0x000000000000a2aa                UART0_RX_TX_DriverIRQHandler
+                0x000000000000a2aa                SPI0_DriverIRQHandler
+                0x000000000000a2aa                ADC0_DriverIRQHandler
+                0x000000000000a2aa                CMP0_DriverIRQHandler
+                0x000000000000a2aa                CAN0_DriverIRQHandler
+                0x000000000000a2aa                FTM3_DriverIRQHandler
+                0x000000000000a2aa                UART1_ERR_DriverIRQHandler
+                0x000000000000a2aa                DMA2_DriverIRQHandler
+                0x000000000000a2aa                PORTD_DriverIRQHandler
+                0x000000000000a2aa                PORTE_DriverIRQHandler
+                0x000000000000a2aa                FTFE_DriverIRQHandler
+                0x000000000000a2aa                I2C0_DriverIRQHandler
+                0x000000000000a2aa                DMA7_DriverIRQHandler
+                0x000000000000a2aa                UART1_RX_TX_DriverIRQHandler
+ .after_vectors.reset
+                0x000000000000a2ac       0x7c src/startup_mk64f12.o
+                0x000000000000a2ac                ResetISR
+ *(.text*)
+ .text          0x000000000000a328      0xdac ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+                0x000000000000a418                CLOCK_GetOsc0ErClkFreq
+                0x000000000000a454                CLOCK_GetEr32kClkFreq
+                0x000000000000a4ac                CLOCK_SetSimConfig
+                0x000000000000a4e4                CLOCK_EnableUsbfs0Clock
+                0x000000000000a57c                CLOCK_GetFllFreq
+                0x000000000000a5bc                CLOCK_GetInternalRefClkFreq
+                0x000000000000a5d0                CLOCK_GetPll0Freq
+                0x000000000000a618                CLOCK_GetPllFllSelClkFreq
+                0x000000000000a644                CLOCK_GetOutClkFreq
+                0x000000000000a668                CLOCK_GetFlashClkFreq
+                0x000000000000a684                CLOCK_GetFlexBusClkFreq
+                0x000000000000a6a0                CLOCK_GetBusClkFreq
+                0x000000000000a6bc                CLOCK_GetCoreSysClkFreq
+                0x000000000000a6d4                CLOCK_GetPlatClkFreq
+                0x000000000000a6d8                CLOCK_GetFixedFreqClkFreq
+                0x000000000000a6f0                CLOCK_GetFreq
+                0x000000000000a798                CLOCK_SetExternalRefClkConfig
+                0x000000000000a7cc                CLOCK_SetInternalRefClkConfig
+                0x000000000000a848                CLOCK_CalcPllDiv
+                0x000000000000a90c                CLOCK_EnablePll0
+                0x000000000000a95c                CLOCK_SetOsc0MonitorMode
+                0x000000000000a990                CLOCK_SetRtcOscMonitorMode
+                0x000000000000a9b0                CLOCK_SetPll0MonitorMode
+                0x000000000000a9e4                CLOCK_GetStatusFlags
+                0x000000000000aa18                CLOCK_ClearStatusFlags
+                0x000000000000aa44                CLOCK_InitOsc0
+                0x000000000000aaa8                CLOCK_DeinitOsc0
+                0x000000000000aac4                CLOCK_SetSlowIrcFreq
+                0x000000000000aad0                CLOCK_SetFastIrcFreq
+                0x000000000000aadc                CLOCK_TrimInternalRefClk
+                0x000000000000ab88                CLOCK_GetMode
+                0x000000000000abdc                CLOCK_SetFeiMode
+                0x000000000000ac3c                CLOCK_SetFeeMode
+                0x000000000000acc0                CLOCK_SetFbiMode
+                0x000000000000ad28                CLOCK_SetFbeMode
+                0x000000000000adac                CLOCK_SetBlpiMode
+                0x000000000000adc0                CLOCK_SetBlpeMode
+                0x000000000000adc4                CLOCK_SetPbeMode
+                0x000000000000ae30                CLOCK_SetPeeMode
+                0x000000000000ae4c                CLOCK_ExternalModeToFbeModeQuick
+                0x000000000000ae84                CLOCK_InternalModeToFbiModeQuick
+                0x000000000000aeac                CLOCK_BootToFeiMode
+                0x000000000000aeb0                CLOCK_BootToFeeMode
+                0x000000000000aed2                CLOCK_BootToBlpiMode
+                0x000000000000af08                CLOCK_BootToBlpeMode
+                0x000000000000af4c                CLOCK_BootToPeeMode
+                0x000000000000af98                CLOCK_SetMcgConfig
+ .text          0x000000000000b0d4      0x49c ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_flash.o
+                0x000000000000b0f8                FLASH_Init
+                0x000000000000b174                FLASH_Erase
+                0x000000000000b1a6                FLASH_EraseSectorNonBlocking
+                0x000000000000b1d8                FLASH_EraseAll
+                0x000000000000b1dc                FLASH_Program
+                0x000000000000b210                FLASH_ProgramOnce
+                0x000000000000b214                FLASH_ProgramSection
+                0x000000000000b248                FLASH_ReadResource
+                0x000000000000b258                FLASH_ReadOnce
+                0x000000000000b25c                FLASH_VerifyErase
+                0x000000000000b28e                FLASH_VerifyEraseAll
+                0x000000000000b292                FLASH_VerifyProgram
+                0x000000000000b2d4                FLASH_GetSecurityState
+                0x000000000000b2d8                FLASH_SecurityBypass
+                0x000000000000b2dc                FLASH_Swap
+                0x000000000000b3d0                FLASH_IsProtected
+                0x000000000000b49c                FLASH_PflashSetProtection
+                0x000000000000b4c4                FLASH_PflashGetProtection
+                0x000000000000b4e0                FLASH_GetProperty
+                0x000000000000b542                FLASH_GetCommandState
+ .text          0x000000000000b570       0xf0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_cache.o
+                0x000000000000b570                FTFx_CACHE_Init
+                0x000000000000b598                FTFx_CACHE_PflashSetPrefetchSpeculation
+                0x000000000000b5d4                FTFx_CACHE_PflashGetPrefetchSpeculation
+                0x000000000000b604                fmc_flash_cache_clear
+                0x000000000000b628                fmc_flash_prefetch_speculation_clear
+                0x000000000000b64c                FTFx_CACHE_ClearCachePrefetchSpeculation
+ .text          0x000000000000b660      0x704 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_controller.o
+                0x000000000000b706                FTFx_API_Init
+                0x000000000000b750                FTFx_CMD_Erase
+                0x000000000000b7bc                FTFx_CMD_EraseSectorNonBlocking
+                0x000000000000b808                FTFx_CMD_EraseAll
+                0x000000000000b82c                FTFx_CMD_EraseAllExecuteOnlySegments
+                0x000000000000b850                FTFx_CMD_Program
+                0x000000000000b8d4                FTFx_CMD_ProgramOnce
+                0x000000000000b94c                FTFx_CMD_ProgramSection
+                0x000000000000ba04                FTFx_CMD_ReadOnce
+                0x000000000000ba84                FTFx_CMD_ReadResource
+                0x000000000000bb5c                FTFx_CMD_VerifyErase
+                0x000000000000bbe0                FTFx_CMD_VerifyEraseAll
+                0x000000000000bbf8                FTFx_CMD_VerifyEraseAllExecuteOnlySegments
+                0x000000000000bc14                FTFx_CMD_VerifyProgram
+                0x000000000000bc90                FTFx_CMD_SecurityBypass
+                0x000000000000bcc0                FTFx_REG_GetSecurityState
+                0x000000000000bd00                FTFx_CMD_SwapControl
+ .text          0x000000000000bd64     0x1684 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_enet.o
+                0x000000000000bd64                ENET_ErrorIRQHandler
+                0x000000000000be84                ENET_ReceiveIRQHandler
+                0x000000000000bf24                ENET_GetInstance
+                0x000000000000bf4c                ENET_GetDefaultConfig
+                0x000000000000bf84                ENET_Down
+                0x000000000000bfb0                ENET_Deinit
+                0x000000000000bfd0                ENET_SetCallback
+                0x000000000000bff4                ENET_SetRxISRHandler
+                0x000000000000c018                ENET_SetTxISRHandler
+                0x000000000000c03c                ENET_SetErrISRHandler
+                0x000000000000c060                ENET_SetMII
+                0x000000000000c094                ENET_SetMacAddr
+                0x000000000000c0a8                ENET_GetMacAddr
+                0x000000000000c0e8                ENET_SetSMI
+                0x000000000000c154                ENET_Up
+                0x000000000000c568                ENET_Init
+                0x000000000000c5a8                ENET_StartSMIWrite
+                0x000000000000c5d2                ENET_StartSMIRead
+                0x000000000000c5f4                ENET_GetRxErrBeforeReadFrame
+                0x000000000000c68c                ENET_GetStatistics
+                0x000000000000c6ca                ENET_GetRxFrameSize
+                0x000000000000c76c                ENET_ReadFrame
+                0x000000000000c838                ENET_SendFrame
+                0x000000000000c9bc                ENET_SetTxReclaim
+                0x000000000000ca14                ENET_ReclaimTxDescriptor
+                0x000000000000caa8                ENET_TransmitIRQHandler
+                0x000000000000cb0c                ENET_GetRxBuffer
+                0x000000000000cba8                ENET_ReleaseRxBuffer
+                0x000000000000cc88                ENET_GetRxFrame
+                0x000000000000ce94                ENET_StartTxFrame
+                0x000000000000d004                ENET_SendFrameZeroCopy
+                0x000000000000d170                ENET_AddMulticastGroup
+                0x000000000000d20c                ENET_LeaveMulticastGroup
+                0x000000000000d2ac                ENET_CommonFrame0IRQHandler
+                0x000000000000d314                ENET_Ptp1588IRQHandler
+                0x000000000000d318                ENET_TxIRQHandler
+                0x000000000000d33c                ENET_RxIRQHandler
+                0x000000000000d360                ENET_ErrIRQHandler
+                0x000000000000d384                ENET_Transmit_DriverIRQHandler
+                0x000000000000d398                ENET_Receive_DriverIRQHandler
+                0x000000000000d3ac                ENET_Error_DriverIRQHandler
+                0x000000000000d3c0                ENET_DriverIRQHandler
+                0x000000000000d3d4                ENET_1588_Timer_DriverIRQHandler
+ .text          0x000000000000d3e8      0x344 ../wolfBoot/src/libwolfboot.o
+                0x000000000000d3e8                hal_trailer_write
+                0x000000000000d42c                hal_set_partition_magic
+                0x000000000000d474                wolfBoot_set_partition_state
+                0x000000000000d4f4                wolfBoot_set_update_sector_flag
+                0x000000000000d554                wolfBoot_get_partition_state
+                0x000000000000d5a4                wolfBoot_get_update_sector_flag
+                0x000000000000d5e0                wolfBoot_erase_partition
+                0x000000000000d60c                wolfBoot_update_trigger
+                0x000000000000d622                wolfBoot_success
+                0x000000000000d638                wolfBoot_find_header
+                0x000000000000d686                wolfBoot_get_blob_version
+                0x000000000000d6b8                wolfBoot_get_image_version
+                0x000000000000d6d0                wolfBoot_get_image_type
+                0x000000000000d714                wolfBoot_dualboot_candidate
+                0x000000000000d718                wolfBoot_fallback_is_possible
+ .text          0x000000000000d72c      0x170 ../wolfBoot/hal/kinetis.o
+                0x000000000000d76c                hal_flash_write
+                0x000000000000d840                hal_flash_unlock
+                0x000000000000d842                hal_flash_lock
+                0x000000000000d844                hal_flash_erase
+ .text          0x000000000000d89c       0x64 src/clock_config.o
+                0x000000000000d89c                BOARD_BootClockRUN
+ .text          0x000000000000d900      0x474 src/main.o
+                0x000000000000d900                pico_send
+                0x000000000000d912                pico_recv
+                0x000000000000d924                PicoTask
+                0x000000000000d9e8                MainTask
+                0x000000000000dd34                __assert_func
+                0x000000000000dd36                init_data_bss
+                0x000000000000dd70                SystemInit
+ .text.startup  0x000000000000dd74       0x9c src/main.o
+                0x000000000000dd74                main
+ .text          0x000000000000de10       0xe0 src/pin_mux.o
+                0x000000000000de10                BOARD_InitPins
+ .text          0x000000000000def0       0x82 freeRTOS/list.o
+                0x000000000000def0                vListInitialise
+                0x000000000000df06                vListInitialiseItem
+                0x000000000000df0c                vListInsertEnd
+                0x000000000000df24                vListInsert
+                0x000000000000df52                uxListRemove
+ *fill*         0x000000000000df72        0x2 
+ .text          0x000000000000df74      0xc54 freeRTOS/queue.o
+                0x000000000000e090                xQueueGenericReset
+                0x000000000000e10e                xQueueGenericCreate
+                0x000000000000e156                xQueueCreateCountingSemaphore
+                0x000000000000e192                xQueueGenericSend
+                0x000000000000e2f8                xQueueCreateMutex
+                0x000000000000e32e                xQueueGiveMutexRecursive
+                0x000000000000e36a                xQueueGenericSendFromISR
+                0x000000000000e42c                xQueueGiveFromISR
+                0x000000000000e4d4                xQueueReceive
+                0x000000000000e612                xQueueSemaphoreTake
+                0x000000000000e798                xQueueTakeMutexRecursive
+                0x000000000000e7dc                xQueuePeek
+                0x000000000000e91a                xQueueReceiveFromISR
+                0x000000000000e9b8                xQueuePeekFromISR
+                0x000000000000ea2e                uxQueueMessagesWaiting
+                0x000000000000ea58                uxQueueSpacesAvailable
+                0x000000000000ea86                uxQueueMessagesWaitingFromISR
+                0x000000000000ea9e                uxQueueGetQueueNumber
+                0x000000000000eaa2                vQueueSetQueueNumber
+                0x000000000000eaa6                ucQueueGetQueueType
+                0x000000000000eaac                xQueueIsQueueEmptyFromISR
+                0x000000000000eaca                xQueueIsQueueFullFromISR
+                0x000000000000eaea                vQueueAddToRegistry
+                0x000000000000eb10                pcQueueGetName
+                0x000000000000eb34                vQueueUnregisterQueue
+                0x000000000000eb5c                vQueueDelete
+                0x000000000000eb82                vQueueWaitForMessageRestricted
+ .text          0x000000000000ebc8     0x14e8 freeRTOS/tasks.o
+                0x000000000000ecdc                xTaskCreate
+                0x000000000000ee68                vTaskDelete
+                0x000000000000ef20                eTaskGetState
+                0x000000000000ef98                uxTaskPriorityGet
+                0x000000000000efb8                uxTaskPriorityGetFromISR
+                0x000000000000efe8                vTaskPrioritySet
+                0x000000000000f0bc                vTaskResume
+                0x000000000000f140                xTaskResumeFromISR
+                0x000000000000f1d4                vTaskStartScheduler
+                0x000000000000f248                vTaskEndScheduler
+                0x000000000000f268                vTaskSuspendAll
+                0x000000000000f27c                xTaskGetTickCount
+                0x000000000000f288                xTaskGetTickCountFromISR
+                0x000000000000f298                uxTaskGetNumberOfTasks
+                0x000000000000f2a4                pcTaskGetName
+                0x000000000000f2c8                xTaskIncrementTick
+                0x000000000000f39c                xTaskResumeAll
+                0x000000000000f474                vTaskDelayUntil
+                0x000000000000f500                vTaskDelay
+                0x000000000000f54c                vTaskSwitchContext
+                0x000000000000f5b0                vTaskSuspend
+                0x000000000000f670                vTaskPlaceOnEventList
+                0x000000000000f6a4                vTaskPlaceOnUnorderedEventList
+                0x000000000000f6f8                vTaskPlaceOnEventListRestricted
+                0x000000000000f734                xTaskRemoveFromEventList
+                0x000000000000f7ac                vTaskRemoveFromUnorderedEventList
+                0x000000000000f828                vTaskSetTimeOutState
+                0x000000000000f85c                vTaskInternalSetTimeOutState
+                0x000000000000f870                xTaskCheckForTimeOut
+                0x000000000000f8e4                vTaskMissedYield
+                0x000000000000f8f4                uxTaskGetTaskNumber
+                0x000000000000f8fa                vTaskSetTaskNumber
+                0x000000000000f900                vTaskSetThreadLocalStoragePointer
+                0x000000000000f918                pvTaskGetThreadLocalStoragePointer
+                0x000000000000f934                vTaskGetInfo
+                0x000000000000fa0e                uxTaskGetSystemState
+                0x000000000000faa8                xTaskGetCurrentTaskHandle
+                0x000000000000fab4                xTaskGetSchedulerState
+                0x000000000000fad4                xTaskPriorityInherit
+                0x000000000000fb70                xTaskPriorityDisinherit
+                0x000000000000fc10                vTaskPriorityDisinheritAfterTimeout
+                0x000000000000fcc4                uxTaskResetEventItemValue
+                0x000000000000fcdc                pvTaskIncrementMutexHeldCount
+                0x000000000000fcf4                ulTaskNotifyTake
+                0x000000000000fd58                xTaskNotifyWait
+                0x000000000000fde4                xTaskGenericNotify
+                0x000000000000fec8                xTaskGenericNotifyFromISR
+                0x000000000000ffc8                vTaskNotifyGiveFromISR
+                0x0000000000010084                xTaskNotifyStateClear
+ .text          0x00000000000100b0      0x56c freeRTOS/timers.o
+                0x0000000000010130                xTimerCreateTimerTask
+                0x0000000000010178                xTimerCreate
+                0x00000000000101d2                xTimerGenericCommand
+                0x0000000000010488                xTimerGetTimerDaemonTaskHandle
+                0x00000000000104a8                xTimerGetPeriod
+                0x00000000000104c0                vTimerSetReloadMode
+                0x00000000000104fa                xTimerGetExpiryTime
+                0x0000000000010512                pcTimerGetName
+                0x000000000001052a                xTimerIsTimerActive
+                0x000000000001055a                pvTimerGetTimerID
+                0x0000000000010584                vTimerSetTimerID
+                0x00000000000105ac                xTimerPendFunctionCallFromISR
+                0x00000000000105d4                xTimerPendFunctionCall
+                0x0000000000010614                uxTimerGetTimerNumber
+                0x0000000000010618                vTimerSetTimerNumber
+ *fill*         0x000000000001061c        0x4 
+ .text          0x0000000000010620      0x368 freeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000000010690                pxPortInitialiseStack
+                0x00000000000106bc                SVC_Handler
+                0x00000000000106e4                vPortEndScheduler
+                0x0000000000010708                vPortEnterCritical
+                0x0000000000010748                vPortExitCritical
+                0x0000000000010770                PendSV_Handler
+                0x00000000000107d4                SysTick_Handler
+                0x0000000000010800                vPortSetupTimerInterrupt
+                0x0000000000010824                xPortStartScheduler
+                0x000000000001092c                vPortValidateInterruptPriority
+ .text          0x0000000000010988      0x23c freeRTOS/portable/MemMang/heap_5.o
+                0x00000000000109cc                pvPortMalloc
+                0x0000000000010a74                vPortFree
+                0x0000000000010adc                xPortGetFreeHeapSize
+                0x0000000000010ae8                xPortGetMinimumEverFreeHeapSize
+                0x0000000000010af4                vPortDefineHeapRegions
+ .text          0x0000000000010bc4      0x2a8 src/startup_mk64f12.o
+                0x0000000000010bc4                DMA0_IRQHandler
+                0x0000000000010bcc                DMA1_IRQHandler
+                0x0000000000010bd4                DMA2_IRQHandler
+                0x0000000000010bdc                DMA3_IRQHandler
+                0x0000000000010be4                DMA4_IRQHandler
+                0x0000000000010bec                DMA5_IRQHandler
+                0x0000000000010bf4                DMA6_IRQHandler
+                0x0000000000010bfc                DMA7_IRQHandler
+                0x0000000000010c04                DMA8_IRQHandler
+                0x0000000000010c0c                DMA9_IRQHandler
+                0x0000000000010c14                DMA10_IRQHandler
+                0x0000000000010c1c                DMA11_IRQHandler
+                0x0000000000010c24                DMA12_IRQHandler
+                0x0000000000010c2c                DMA13_IRQHandler
+                0x0000000000010c34                DMA14_IRQHandler
+                0x0000000000010c3c                DMA15_IRQHandler
+                0x0000000000010c44                DMA_Error_IRQHandler
+                0x0000000000010c4c                MCM_IRQHandler
+                0x0000000000010c54                FTFE_IRQHandler
+                0x0000000000010c5c                Read_Collision_IRQHandler
+                0x0000000000010c64                LVD_LVW_IRQHandler
+                0x0000000000010c6c                LLWU_IRQHandler
+                0x0000000000010c74                WDOG_EWM_IRQHandler
+                0x0000000000010c7c                RNG_IRQHandler
+                0x0000000000010c84                I2C0_IRQHandler
+                0x0000000000010c8c                I2C1_IRQHandler
+                0x0000000000010c94                SPI0_IRQHandler
+                0x0000000000010c9c                SPI1_IRQHandler
+                0x0000000000010ca4                I2S0_Tx_IRQHandler
+                0x0000000000010cac                I2S0_Rx_IRQHandler
+                0x0000000000010cb4                UART0_LON_IRQHandler
+                0x0000000000010cbc                UART0_RX_TX_IRQHandler
+                0x0000000000010cc4                UART0_ERR_IRQHandler
+                0x0000000000010ccc                UART1_RX_TX_IRQHandler
+                0x0000000000010cd4                UART1_ERR_IRQHandler
+                0x0000000000010cdc                UART2_RX_TX_IRQHandler
+                0x0000000000010ce4                UART2_ERR_IRQHandler
+                0x0000000000010cec                UART3_RX_TX_IRQHandler
+                0x0000000000010cf4                UART3_ERR_IRQHandler
+                0x0000000000010cfc                ADC0_IRQHandler
+                0x0000000000010d04                CMP0_IRQHandler
+                0x0000000000010d0c                CMP1_IRQHandler
+                0x0000000000010d14                FTM0_IRQHandler
+                0x0000000000010d1c                FTM1_IRQHandler
+                0x0000000000010d24                FTM2_IRQHandler
+                0x0000000000010d2c                CMT_IRQHandler
+                0x0000000000010d34                RTC_IRQHandler
+                0x0000000000010d3c                RTC_Seconds_IRQHandler
+                0x0000000000010d44                PIT0_IRQHandler
+                0x0000000000010d4c                PIT1_IRQHandler
+                0x0000000000010d54                PIT2_IRQHandler
+                0x0000000000010d5c                PIT3_IRQHandler
+                0x0000000000010d64                PDB0_IRQHandler
+                0x0000000000010d6c                USB0_IRQHandler
+                0x0000000000010d74                USBDCD_IRQHandler
+                0x0000000000010d7c                Reserved71_IRQHandler
+                0x0000000000010d84                DAC0_IRQHandler
+                0x0000000000010d8c                MCG_IRQHandler
+                0x0000000000010d94                LPTMR0_IRQHandler
+                0x0000000000010d9c                PORTA_IRQHandler
+                0x0000000000010da4                PORTB_IRQHandler
+                0x0000000000010dac                PORTC_IRQHandler
+                0x0000000000010db4                PORTD_IRQHandler
+                0x0000000000010dbc                PORTE_IRQHandler
+                0x0000000000010dc4                SWI_IRQHandler
+                0x0000000000010dcc                SPI2_IRQHandler
+                0x0000000000010dd4                UART4_RX_TX_IRQHandler
+                0x0000000000010ddc                UART4_ERR_IRQHandler
+                0x0000000000010de4                UART5_RX_TX_IRQHandler
+                0x0000000000010dec                UART5_ERR_IRQHandler
+                0x0000000000010df4                CMP2_IRQHandler
+                0x0000000000010dfc                FTM3_IRQHandler
+                0x0000000000010e04                DAC1_IRQHandler
+                0x0000000000010e0c                ADC1_IRQHandler
+                0x0000000000010e14                I2C2_IRQHandler
+                0x0000000000010e1c                CAN0_ORed_Message_buffer_IRQHandler
+                0x0000000000010e24                CAN0_Wake_Up_IRQHandler
+                0x0000000000010e2c                CAN0_Bus_Off_IRQHandler
+                0x0000000000010e34                CAN0_Error_IRQHandler
+                0x0000000000010e3c                CAN0_Tx_Warning_IRQHandler
+                0x0000000000010e44                CAN0_Rx_Warning_IRQHandler
+                0x0000000000010e4c                SDHC_IRQHandler
+                0x0000000000010e54                ENET_1588_Timer_IRQHandler
+                0x0000000000010e5c                ENET_Transmit_IRQHandler
+                0x0000000000010e64                ENET_Error_IRQHandler
+ .text          0x0000000000010e6c      0x18c src/pico_enet_kinetis.o
+                0x0000000000010e6c                pico_enet_destroy
+                0x0000000000010ef0                pico_enet_create
+ .text          0x0000000000010ff8      0x26c ../../SDK_2_10_0_FRDM-K64F/components/phyksz8081/fsl_phy.o
+                0x0000000000010ff8                PHY_Write
+                0x000000000001102c                PHY_Read
+                0x0000000000011080                PHY_Init
+                0x0000000000011164                PHY_EnableLoopback
+                0x00000000000111d8                PHY_GetLinkStatus
+                0x0000000000011210                PHY_GetLinkSpeedDuplex
+ .text          0x0000000000011264       0x7c src/picotcp.o
+                0x0000000000011264                pico_mutex_init
+                0x0000000000011282                pico_mutex_deinit
+                0x0000000000011286                pico_mutex_lock
+                0x000000000001129a                pico_mutex_lock_timeout
+                0x00000000000112aa                pico_mutex_unlock
+                0x00000000000112b4                pico_mutex_unlock_ISR
+                0x00000000000112c6                rnd_custom_generate_block
+ .text          0x00000000000112e0     0x7868 ./build/lib/internal.o
+                0x0000000000011b6c                IsTLS
+                0x0000000000011b84                IsAtLeastTLSv1_2
+                0x0000000000011b9e                IsAtLeastTLSv1_3
+                0x0000000000011c10                InitSSL_Method
+                0x0000000000011c28                InitSSL_Ctx
+                0x0000000000011cb2                SSL_CtxResourceFree
+                0x0000000000011cfa                InitCiphers
+                0x0000000000011d0e                FreeCiphers
+                0x0000000000011d56                InitCipherSpecs
+                0x0000000000011d6e                InitSuitesHashSigAlgo
+                0x0000000000011dea                InitSuites
+                0x0000000000011fa4                InitX509Name
+                0x0000000000011fb8                FreeX509Name
+                0x0000000000011fce                InitX509
+                0x000000000001200e                FreeX509
+                0x0000000000012052                ConvertHashPss
+                0x000000000001206a                RsaSign
+                0x00000000000120b8                RsaVerify
+                0x00000000000120ea                VerifyRsaSign
+                0x000000000001218a                RsaDec
+                0x00000000000121bc                RsaEnc
+                0x00000000000121e2                EccSign
+                0x00000000000121fa                EccVerify
+                0x0000000000012230                EccSharedSecret
+                0x000000000001225e                EccMakeKey
+                0x00000000000122a2                InitSSL_Suites
+                0x000000000001233e                SSL_CTX_RefCount
+                0x0000000000012374                FreeSSL_Ctx
+                0x00000000000123b0                SetSSL_CTX
+                0x00000000000125cc                FreeHandshakeHashes
+                0x00000000000125f8                InitHandshakeHashes
+                0x000000000001265a                InitSSL
+                0x0000000000012808                FreeArrays
+                0x000000000001285c                FreeKey
+                0x0000000000012888                AllocKey
+                0x00000000000128f8                FreeKeyExchange
+                0x000000000001292e                FreeSuites
+                0x000000000001293e                WriteSEQ
+                0x0000000000012b34                HashRaw
+                0x0000000000012b72                HashOutput
+                0x0000000000012b90                HashInput
+                0x0000000000012ba2                ShrinkOutputBuffer
+                0x0000000000012bca                ShrinkInputBuffer
+                0x0000000000012c14                SSL_ResourceFree
+                0x0000000000012cf0                FreeSSL
+                0x0000000000012d0c                FreeHandshakeResources
+                0x0000000000012dcc                SendBuffered
+                0x0000000000012e58                GrowInputBuffer
+                0x0000000000012fe0                CheckAvailableSize
+                0x0000000000013068                MatchDomainName
+                0x0000000000013108                CheckForAltNames
+                0x0000000000013160                CheckHostName
+                0x0000000000013194                CheckIPAddr
+                0x00000000000131b0                DoVerifyCallback
+                0x00000000000132e0                DoFinished
+                0x000000000001337c                TimingPadVerify
+                0x000000000001353e                BuildCertHashes
+                0x00000000000136dc                FreeBuildMsgArgs
+                0x00000000000136fc                BuildMessage
+                0x0000000000013a60                SendChangeCipher
+                0x0000000000013afe                SendFinished
+                0x0000000000013bb8                SendCertificate
+                0x0000000000013f34                SendCertificateRequest
+                0x00000000000140be                SendCertificateStatus
+                0x00000000000140c2                IsSCR
+                0x00000000000140c6                SendData
+                0x0000000000014218                SendAlert
+                0x0000000000014332                ProcessPeerCerts
+                0x0000000000014a54                DoApplicationData
+                0x0000000000014ad8                wolfSSL_ERR_reason_error_string
+                0x0000000000014b04                SetErrorString
+                0x0000000000014b1e                GetCipherNames
+                0x0000000000014b28                GetCipherNamesSize
+                0x0000000000014b2c                GetCipherNameInternal
+                0x0000000000014b6c                GetCipherNameIana
+                0x0000000000014bac                wolfSSL_get_cipher_name_internal
+                0x0000000000014bbc                wolfSSL_get_cipher_name_iana
+                0x0000000000014bcc                GetCipherSuiteFromName
+                0x0000000000014c48                SetCipherList
+                0x0000000000014dc0                PickHashSigAlgo
+                0x0000000000015052                DecodePrivateKey
+                0x0000000000015138                SendClientHello
+                0x0000000000015336                CheckVersion
+                0x0000000000015388                CompleteServerHello
+                0x0000000000015464                DoServerHello
+                0x0000000000015624                VerifyClientSuite
+                0x0000000000015646                SendClientKeyExchange
+                0x0000000000015c48                SendCertificateVerify
+                0x000000000001602c                GetCurveByOID
+                0x000000000001603a                SendServerHello
+                0x0000000000016248                SendServerKeyExchange
+                0x0000000000016906                MatchSuite
+                0x00000000000169a4                HandleTlsResumption
+                0x0000000000016a64                DoClientHello
+                0x0000000000018040                ProcessReply
+                0x0000000000018978                ReceiveData
+                0x0000000000018a64                SendServerHelloDone
+                0x0000000000018b38                wolfSSL_GetMaxRecordSize
+ .text          0x0000000000018b48       0x44 ./build/lib/wolfio.o
+                0x0000000000018b48                wolfSSL_CTX_SetIORecv
+                0x0000000000018b4e                wolfSSL_CTX_SetIOSend
+                0x0000000000018b54                wolfSSL_SSLSetIORecv
+                0x0000000000018b5c                wolfSSL_SSLSetIOSend
+                0x0000000000018b64                wolfSSL_SetIOReadCtx
+                0x0000000000018b6a                wolfSSL_SetIOWriteCtx
+                0x0000000000018b70                wolfSSL_GetIOReadCtx
+                0x0000000000018b76                wolfSSL_GetIOWriteCtx
+                0x0000000000018b7c                wolfSSL_SetIOReadFlags
+                0x0000000000018b84                wolfSSL_SetIOWriteFlags
+ .text          0x0000000000018b8c      0x9c4 ./build/lib/keys.o
+                0x0000000000018c50                SetCipherSpecs
+                0x0000000000018e28                SetKeysSide
+                0x00000000000190fa                StoreKeys
+                0x00000000000191aa                DeriveKeys
+                0x0000000000019380                MakeMasterSecret
+ .text          0x0000000000019550     0x22fc ./build/lib/ssl.o
+                0x0000000000019590                wolfSSL_CTX_free
+                0x0000000000019598                wolfSSL_new
+                0x00000000000195c8                wolfSSL_free
+                0x00000000000195d4                wolfSSL_is_server
+                0x00000000000195ec                wolfSSL_set_fd
+                0x000000000001960c                wolfSSL_set_read_fd
+                0x0000000000019622                wolfSSL_set_write_fd
+                0x0000000000019638                wolfSSL_get_cipher_list
+                0x000000000001965a                wolfSSL_get_cipher_list_ex
+                0x0000000000019676                wolfSSL_get_ciphers
+                0x00000000000196f0                wolfSSL_get_ciphers_iana
+                0x000000000001976c                wolfSSL_get_shared_ciphers
+                0x0000000000019798                wolfSSL_get_fd
+                0x00000000000197a6                wolfSSL_dtls
+                0x00000000000197b2                wolfSSL_CTX_mutual_auth
+                0x00000000000197dc                wolfSSL_mutual_auth
+                0x0000000000019808                wolfSSL_dtls_set_peer
+                0x000000000001980e                wolfSSL_dtls_get_peer
+                0x0000000000019814                wolfSSL_GetRNG
+                0x000000000001981a                wolfSSL_GetObjectSize
+                0x0000000000019820                wolfSSL_CTX_GetObjectSize
+                0x0000000000019826                wolfSSL_METHOD_GetObjectSize
+                0x000000000001982a                wolfSSL_GetMaxOutputSize
+                0x0000000000019842                wolfSSL_GetOutputSize
+                0x0000000000019888                wolfSSL_CTX_SetMinEccKey_Sz
+                0x00000000000198a8                wolfSSL_SetMinEccKey_Sz
+                0x00000000000198c2                wolfSSL_CTX_SetMinRsaKey_Sz
+                0x00000000000198e0                wolfSSL_SetMinRsaKey_Sz
+                0x00000000000198fa                wolfSSL_write
+                0x0000000000019914                wolfSSL_peek
+                0x0000000000019918                wolfSSL_read
+                0x000000000001991c                wolfSSL_SetDevId
+                0x000000000001992c                wolfSSL_CTX_SetDevId
+                0x000000000001993c                wolfSSL_CTX_GetDevId
+                0x0000000000019952                wolfSSL_CTX_GetHeap
+                0x0000000000019964                wolfSSL_UseSupportedCurve
+                0x0000000000019994                wolfSSL_CTX_UseSupportedCurve
+                0x00000000000199bc                wolfSSL_send
+                0x00000000000199e0                wolfSSL_recv
+                0x0000000000019a04                wolfSSL_shutdown
+                0x0000000000019a78                wolfSSL_state
+                0x0000000000019a86                wolfSSL_get_error
+                0x0000000000019abe                wolfSSL_get_alert_history
+                0x0000000000019ad4                wolfSSL_want_read
+                0x0000000000019ae4                wolfSSL_want_write
+                0x0000000000019af4                wolfSSL_ERR_error_string
+                0x0000000000019b0c                wolfSSL_ERR_error_string_n
+                0x0000000000019b3e                wolfSSL_KeepArrays
+                0x0000000000019b4e                wolfSSL_FreeArrays
+                0x0000000000019b6c                wolfSSL_KeepHandshakeResources
+                0x0000000000019b84                wolfSSL_FreeHandshakeResources
+                0x0000000000019b96                wolfSSL_CTX_UseClientSuites
+                0x0000000000019bae                wolfSSL_UseClientSuites
+                0x0000000000019bc6                wolfSSL_GetMacSecret
+                0x0000000000019be8                wolfSSL_CTX_GetCertManager
+                0x0000000000019bee                wolfSSL_CertManagerFree
+                0x0000000000019c10                wolfSSL_CertManagerNew_ex
+                0x0000000000019c4c                wolfSSL_CertManagerNew
+                0x0000000000019c52                wolfSSL_CertManagerUnloadCAs
+                0x0000000000019c84                wolfSSL_pending
+                0x0000000000019c8a                wolfSSL_CTX_set_group_messages
+                0x0000000000019ca2                wolfSSL_set_group_messages
+                0x0000000000019cba                wolfSSL_CTX_SetMinVersion
+                0x0000000000019cd6                wolfSSL_SetMinVersion
+                0x0000000000019cf2                wolfSSL_GetVersion
+                0x0000000000019d18                wolfSSL_SetVersion
+                0x0000000000019d8e                AlreadySigner
+                0x0000000000019de0                GetCA
+                0x0000000000019e2a                GetCAByName
+                0x0000000000019e80                AddCA
+                0x000000000001a05c                wolfSSL_Init
+                0x000000000001a0a4                wolfSSL_CTX_new_ex
+                0x000000000001a0f4                wolfSSL_CTX_new
+                0x000000000001a0fa                wolfSSL_CertManagerEnableCRL
+                0x000000000001a108                wolfSSL_CertManagerDisableCRL
+                0x000000000001a120                wolfSSL_CertManagerSetVerify
+                0x000000000001a126                CM_VerifyBuffer_ex
+                0x000000000001a20c                ProcessBuffer
+                0x000000000001aa44                wolfSSL_CertManagerVerifyBuffer
+                0x000000000001aa52                wolfSSL_CertManagerEnableOCSP
+                0x000000000001aa60                wolfSSL_CertManagerDisableOCSP
+                0x000000000001aa78                wolfSSL_CertManagerEnableOCSPStapling
+                0x000000000001aa86                wolfSSL_CertManagerDisableOCSPStapling
+                0x000000000001aa94                wolfSSL_CertManagerEnableOCSPMustStaple
+                0x000000000001aaa2                wolfSSL_CertManagerDisableOCSPMustStaple
+                0x000000000001aab0                wolfSSL_CTX_set_verify_depth
+                0x000000000001aabc                wolfSSL_get_verify_depth
+                0x000000000001aac8                wolfSSL_CTX_get_verify_depth
+                0x000000000001aad4                wolfSSL_CTX_check_private_key
+                0x000000000001ab3c                wolfSSL_use_certificate_ASN1
+                0x000000000001ab74                wolfSSL_CTX_SetTmpEC_DHE_Sz
+                0x000000000001aba0                wolfSSL_SetTmpEC_DHE_Sz
+                0x000000000001abb8                wolfSSL_CTX_set_verify
+                0x000000000001ac0a                wolfSSL_set_verify
+                0x000000000001ac62                wolfSSL_set_verify_result
+                0x000000000001ac64                wolfSSL_SetCertCbCtx
+                0x000000000001ac6a                wolfSSL_CTX_SetCACb
+                0x000000000001ac74                wolfSSL_load_error_strings
+                0x000000000001ac76                wolfSSL_library_init
+                0x000000000001ac86                wolfSSL_CTX_set_cipher_list
+                0x000000000001acc0                wolfSSL_set_cipher_list
+                0x000000000001acd4                wolfSSL_dtls_get_using_nonblock
+                0x000000000001acd8                wolfSSL_dtls_set_using_nonblock
+                0x000000000001acda                wolfSSLv23_client_method_ex
+                0x000000000001ad00                wolfSSLv23_client_method
+                0x000000000001ad06                wolfSSL_connect
+                0x000000000001aede                wolfSSL_connect_cert
+                0x000000000001af02                wolfSSLv23_server_method_ex
+                0x000000000001af2c                wolfSSLv23_server_method
+                0x000000000001af32                wolfSSL_accept
+                0x000000000001b194                wolfSSL_negotiate
+                0x000000000001b1ec                wolfSSL_SetHsDoneCb
+                0x000000000001b1fc                wolfSSL_Cleanup
+                0x000000000001b254                GetSession
+                0x000000000001b258                wolfSSL_check_domain_name
+                0x000000000001b2a8                wolfSSL_set_compression
+                0x000000000001b2ae                wolfSSL_CTX_set_psk_client_callback
+                0x000000000001b2ba                wolfSSL_set_psk_client_callback
+                0x000000000001b310                wolfSSL_CTX_set_psk_server_callback
+                0x000000000001b31c                wolfSSL_set_psk_server_callback
+                0x000000000001b372                wolfSSL_get_psk_identity_hint
+                0x000000000001b37e                wolfSSL_get_psk_identity
+                0x000000000001b388                wolfSSL_CTX_use_psk_identity_hint
+                0x000000000001b3a8                wolfSSL_use_psk_identity_hint
+                0x000000000001b3d2                wolfSSL_get_psk_callback_ctx
+                0x000000000001b3da                wolfSSL_CTX_get_psk_callback_ctx
+                0x000000000001b3e0                wolfSSL_set_psk_callback_ctx
+                0x000000000001b3ea                wolfSSL_CTX_set_psk_callback_ctx
+                0x000000000001b3f2                wolfSSL_CTX_load_verify_buffer_ex
+                0x000000000001b488                wolfSSL_CTX_load_verify_buffer
+                0x000000000001b498                wolfSSL_CertManagerLoadCABuffer
+                0x000000000001b4e0                wolfSSL_CTX_load_verify_chain_buffer_format
+                0x000000000001b4f4                wolfSSL_CTX_use_certificate_buffer
+                0x000000000001b51e                wolfSSL_CTX_use_PrivateKey_buffer
+                0x000000000001b54a                wolfSSL_CTX_use_certificate_chain_buffer_format
+                0x000000000001b578                wolfSSL_CTX_use_certificate_chain_buffer
+                0x000000000001b57e                wolfSSL_use_certificate_buffer
+                0x000000000001b5ac                wolfSSL_use_PrivateKey_buffer
+                0x000000000001b5dc                wolfSSL_use_certificate_chain_buffer_format
+                0x000000000001b60e                wolfSSL_use_certificate_chain_buffer
+                0x000000000001b614                wolfSSL_UnloadCertsKeys
+                0x000000000001b664                wolfSSL_CTX_UnloadCAs
+                0x000000000001b672                wolfSSL_is_init_finished
+                0x000000000001b682                wolfSSL_CTX_set_options
+                0x000000000001b694                wolfSSL_get_shutdown
+                0x000000000001b6ac                wolfSSL_session_reused
+                0x000000000001b6b8                wolfSSL_get_version
+                0x000000000001b6e0                wolfSSL_lib_version
+                0x000000000001b6e8                wolfSSL_lib_version_hex
+                0x000000000001b6f0                wolfSSL_get_current_cipher_suite
+                0x000000000001b6fc                wolfSSL_get_current_cipher
+                0x000000000001b712                wolfSSL_CIPHER_get_name
+                0x000000000001b71e                wolfSSL_CIPHER_get_version
+                0x000000000001b72c                wolfSSL_SESSION_CIPHER_get_name
+                0x000000000001b73c                wolfSSL_get_cipher
+                0x000000000001b74a                wolfSSL_get_cipher_name
+                0x000000000001b74e                wolfSSL_get_cipher_name_from_suite
+                0x000000000001b752                wolfSSL_get_cipher_name_iana_from_suite
+                0x000000000001b756                wolfSSL_get_cipher_suite_from_name
+                0x000000000001b76e                wolfSSL_CIPHER_get_id
+                0x000000000001b77e                wolfSSL_get_cipher_by_value
+                0x000000000001b782                wolfSSL_get_curve_name
+                0x000000000001b7a0                wolfSSL_get_SSL_CTX
+                0x000000000001b7a4                wolfSSL_X509_check_host
+                0x000000000001b7fa                wolfSSL_X509_check_ip_asc
+ .text          0x000000000001b84c     0x29c0 ./build/lib/tls.o
+                0x000000000001c09c                BuildTlsHandshakeHash
+                0x000000000001c108                BuildTlsFinished
+                0x000000000001c184                MakeTLSv1_1
+                0x000000000001c18e                MakeTLSv1_2
+                0x000000000001c198                MakeTLSv1_3
+                0x000000000001c1a2                wolfSSL_DeriveTlsKeys
+                0x000000000001c1f8                DeriveTlsKeys
+                0x000000000001c2a0                wolfSSL_MakeTlsMasterSecret
+                0x000000000001c2f8                MakeTlsMasterSecret
+                0x000000000001c370                wolfSSL_make_eap_keys
+                0x000000000001c3f8                wolfSSL_GetHmacType
+                0x000000000001c420                wolfSSL_SetTlsHmacInner
+                0x000000000001c462                TLS_hmac
+                0x000000000001c772                TLSX_HandleUnsupportedExtension
+                0x000000000001c782                TLSX_PreSharedKey_GetSizeBinders
+                0x000000000001c7a4                TLSX_PreSharedKey_WriteBinders
+                0x000000000001c7ec                TLSX_Find
+                0x000000000001c7fa                TLSX_CheckUnsupportedExtension
+                0x000000000001c81a                TLSX_SetResponse
+                0x000000000001c82c                TLSX_SupportedCurve_Preferred
+                0x000000000001c854                TLSX_ValidateSupportedCurves
+                0x000000000001ca7a                TLSX_KeyShare_DeriveSecret
+                0x000000000001cad0                TLSX_FreeAll
+                0x000000000001cb80                TLSX_UseSupportedCurve
+                0x000000000001cc4e                TLSX_UsePointFormat
+                0x000000000001ccc4                TLSX_KeyShare_Use
+                0x000000000001cd72                TLSX_KeyShare_Establish
+                0x000000000001cf78                TLSX_KeyShare_Empty
+                0x000000000001cfaa                TLSX_PreSharedKey_Use
+                0x000000000001d092                TLSX_PskKeModes_Use
+                0x000000000001d0cc                TLSX_SupportedCurve_CheckPriority
+                0x000000000001d126                TLSX_Remove
+                0x000000000001d152                TLSX_SupportExtensions
+                0x000000000001d170                TLSX_PopulateExtensions
+                0x000000000001d372                TLSX_GetRequestSize
+                0x000000000001d458                TLSX_WriteRequest
+                0x000000000001d5b0                TLSX_GetResponseSize
+                0x000000000001d6ce                TLSX_WriteResponse
+                0x000000000001d80e                TLSX_ParseVersion
+                0x000000000001da04                TLSX_Parse
+                0x000000000001e0a4                wolfTLS_client_method_ex
+                0x000000000001e0ce                wolfTLS_client_method
+                0x000000000001e0d4                wolfTLSv1_1_client_method_ex
+                0x000000000001e0f8                wolfTLSv1_1_client_method
+                0x000000000001e0fe                wolfTLSv1_2_client_method_ex
+                0x000000000001e120                wolfTLSv1_2_client_method
+                0x000000000001e126                wolfTLSv1_3_client_method_ex
+                0x000000000001e14a                wolfTLSv1_3_client_method
+                0x000000000001e150                wolfTLS_server_method_ex
+                0x000000000001e17c                wolfTLS_server_method
+                0x000000000001e182                wolfTLSv1_1_server_method_ex
+                0x000000000001e1aa                wolfTLSv1_1_server_method
+                0x000000000001e1b0                wolfTLSv1_2_server_method_ex
+                0x000000000001e1d6                wolfTLSv1_2_server_method
+                0x000000000001e1dc                wolfTLSv1_3_server_method_ex
+                0x000000000001e204                wolfTLSv1_3_server_method
+ .text          0x000000000001e20c     0x293c ./build/lib/wolfcrypt/aes.o
+                0x000000000001f0fa                wc_AesSetIV
+                0x000000000001f118                wc_AesSetKey
+                0x000000000001f55c                wc_AesCbcEncrypt
+                0x000000000001f5ac                wc_AesCbcDecrypt
+                0x0000000000020438                wc_AesGcmSetKey
+                0x0000000000020484                GHASH
+                0x0000000000020632                wc_AesGcmEncrypt
+                0x0000000000020736                wc_AesGcmDecrypt
+                0x0000000000020882                wc_AesGcmSetExtIV
+                0x00000000000208be                wc_AesGcmSetIV
+                0x000000000002091c                wc_AesGcmEncrypt_ex
+                0x00000000000209d4                wc_Gmac
+                0x0000000000020a60                wc_GmacVerify
+                0x0000000000020ad0                wc_GmacSetKey
+                0x0000000000020ade                wc_GmacUpdate
+                0x0000000000020b02                wc_AesInit
+                0x0000000000020b12                wc_AesFree
+                0x0000000000020b14                wc_AesGetKeySize
+ .text          0x0000000000020b48     0x43ec ./build/lib/wolfcrypt/asn.o
+                0x0000000000020c9a                GetLength_ex
+                0x0000000000020cfe                GetLength
+                0x0000000000020d90                GetASNTag
+                0x0000000000020f1c                GetSequence
+                0x0000000000020f32                GetSequence_ex
+                0x0000000000020f48                GetSet
+                0x0000000000020f5e                GetSet_ex
+                0x0000000000020f74                GetOctetString
+                0x0000000000020f8a                GetSigName
+                0x0000000000020fe0                GetMyVersion
+                0x000000000002102c                GetShortInt
+                0x000000000002109c                SetShortInt
+                0x0000000000021138                GetInt
+                0x0000000000021184                OidFromId
+                0x00000000000214c8                GetASNObjectId
+                0x0000000000021544                GetObjectId
+                0x00000000000215ce                GetAlgoId
+                0x0000000000021666                wc_RsaPrivateKeyDecode
+                0x0000000000021736                ToTraditionalInline_ex
+                0x00000000000217d2                ToTraditionalInline
+                0x00000000000217e0                ToTraditional_ex
+                0x000000000002181e                ToTraditional
+                0x000000000002182c                wc_GetPkcs8TraditionalOffset
+                0x0000000000021848                DecryptContent
+                0x0000000000021a8e                ToTraditionalEnc
+                0x0000000000021ae0                wc_RsaPublicKeyDecode_ex
+                0x0000000000021c2e                wc_RsaPublicKeyDecodeRaw
+                0x0000000000021ca0                wc_RsaPublicKeyDecode
+                0x0000000000021ce0                FreeAltNames
+                0x0000000000021cfa                FreeNameSubtrees
+                0x0000000000021d14                CalcHashId
+                0x0000000000021d18                GetName
+                0x00000000000220a0                wc_GetDateInfo
+                0x00000000000220ba                SetLength
+                0x0000000000022118                SetBitString
+                0x000000000002213c                SetObjectId
+                0x000000000002220e                SetSequence
+                0x00000000000223c0                SetOctetString
+                0x00000000000223d0                EncryptContent
+                0x00000000000223ec                SetSet
+                0x00000000000223fc                SetImplicit
+                0x0000000000022420                SetExplicit
+                0x0000000000022438                SetAlgoID
+                0x0000000000022524                wc_EncodeSignature
+                0x000000000002258a                wc_GetCTC_HashOID
+                0x000000000002259a                InitSignatureCtx
+                0x00000000000225b2                InitDecodedCert
+                0x00000000000225f6                FreeSignatureCtx
+                0x0000000000022644                FreeDecodedCert
+                0x00000000000226b6                MakeSigner
+                0x00000000000226ce                FreeSigner
+                0x0000000000022700                FreeSignerTable
+                0x000000000002272e                SetMyVersion
+                0x0000000000022754                wc_CreatePKCS8Key
+                0x0000000000022846                SetSerialNumber
+                0x00000000000228b4                GetSerialNumber
+                0x000000000002290a                wc_GetPubX509
+                0x0000000000022adc                DecodeToKey
+                0x0000000000022c86                AllocDer
+                0x0000000000022ce8                FreeDer
+                0x0000000000022d18                wc_AllocDer
+                0x0000000000022d1c                wc_FreeDer
+                0x0000000000022d20                wc_PemGetHeaderFooter
+                0x0000000000022de4                PemToDer
+                0x0000000000022f94                wc_PemToDer
+                0x0000000000022f98                wc_KeyPemToDer
+                0x0000000000023030                wc_CertPemToDer
+                0x0000000000023094                wc_EccPublicKeyToDer
+                0x00000000000231c6                wc_EccPublicKeyDerSize
+                0x00000000000231d0                StoreECC_DSA_Sig
+                0x0000000000023248                StoreECC_DSA_Sig_Bin
+                0x000000000002331e                DecodeECC_DSA_Sig_Bin
+                0x00000000000233b8                DecodeECC_DSA_Sig
+                0x000000000002341a                wc_EccPrivateKeyDecode
+                0x00000000000235ae                wc_CheckPrivateKey
+                0x000000000002371a                wc_GetKeyOID
+                0x00000000000237e8                UnTraditionalEnc
+                0x0000000000023864                TraditionalEnc
+                0x0000000000023b70                wc_EccPublicKeyDecode
+                0x0000000000023cee                ParseCertRelative
+                0x0000000000024d6a                ParseCert
+                0x0000000000024dda                wc_EccKeyToDer
+                0x0000000000024de0                wc_EccPrivateKeyToDer
+                0x0000000000024de6                wc_EccPrivateKeyToPKCS8
+                0x0000000000024ebe                GetNameHash
+ .text          0x0000000000024f34      0x254 ./build/lib/wolfcrypt/coding.o
+                0x0000000000024fd8                Base64_Decode
+ .text          0x0000000000025188       0x38 ./build/lib/wolfcrypt/error.o
+                0x0000000000025188                wc_GetErrorString
+                0x00000000000251a4                wc_ErrorString
+ .text          0x00000000000251c0     0x1774 ./build/lib/wolfcrypt/ecc.o
+                0x00000000000254e8                wc_ecc_set_curve
+                0x0000000000025646                wc_ecc_new_point_h
+                0x0000000000025680                wc_ecc_new_point
+                0x0000000000025686                wc_ecc_del_point_h
+                0x00000000000256ac                wc_ecc_del_point
+                0x00000000000256b2                wc_ecc_copy_point
+                0x00000000000256e6                wc_ecc_cmp_point
+                0x000000000002571a                wc_ecc_is_valid_idx
+                0x0000000000025726                wc_ecc_get_curve_idx
+                0x0000000000025730                wc_ecc_get_name
+                0x0000000000025750                wc_ecc_get_curve_id
+                0x0000000000025770                wc_ecc_get_curve_size_from_id
+                0x0000000000025790                wc_ecc_get_curve_idx_from_name
+                0x00000000000257b8                wc_ecc_get_curve_size_from_name
+                0x00000000000257d8                wc_ecc_get_curve_id_from_name
+                0x00000000000257fc                wc_ecc_get_curve_id_from_params
+                0x00000000000258d8                wc_ecc_get_curve_id_from_dp_params
+                0x00000000000259fc                wc_ecc_get_curve_id_from_oid
+                0x0000000000025a28                wc_ecc_get_curve_params
+                0x0000000000025a3c                wc_ecc_shared_secret_gen
+                0x0000000000025ae0                wc_ecc_shared_secret_ex
+                0x0000000000025b46                wc_ecc_shared_secret
+                0x0000000000025b8e                wc_ecc_point_is_at_infinity
+                0x0000000000025bb4                wc_ecc_gen_k
+                0x0000000000025c1a                wc_ecc_make_pub
+                0x0000000000025c1e                wc_ecc_make_pub_ex
+                0x0000000000025c22                wc_ecc_make_key_ex2
+                0x0000000000025c7c                wc_ecc_make_key_ex
+                0x0000000000025c8a                wc_ecc_make_key
+                0x0000000000025c90                wc_ecc_init_ex
+                0x0000000000025cd2                wc_ecc_key_new
+                0x0000000000025cfc                wc_ecc_init
+                0x0000000000025d06                wc_ecc_set_flags
+                0x0000000000025d18                wc_ecc_sign_hash_ex
+                0x0000000000025d88                wc_ecc_sign_hash
+                0x0000000000025e44                wc_ecc_free
+                0x0000000000025e6c                wc_ecc_key_free
+                0x0000000000025e94                wc_ecc_verify_hash_ex
+                0x0000000000025fb0                wc_ecc_verify_hash
+                0x000000000002609e                wc_ecc_import_point_der_ex
+                0x000000000002615e                wc_ecc_import_point_der
+                0x000000000002616c                wc_ecc_export_point_der
+                0x0000000000026248                wc_ecc_export_point_der_ex
+                0x0000000000026260                wc_ecc_export_x963
+                0x000000000002635c                wc_ecc_export_x963_ex
+                0x0000000000026368                wc_ecc_is_point
+                0x000000000002638c                wc_ecc_check_key
+                0x00000000000263d0                wc_ecc_import_x963_ex
+                0x00000000000264ae                wc_ecc_import_x963
+                0x00000000000264b4                wc_ecc_export_ex
+                0x000000000002655c                wc_ecc_export_private_only
+                0x0000000000026582                wc_ecc_export_public_raw
+                0x00000000000265a8                wc_ecc_export_private_raw
+                0x00000000000265c2                wc_ecc_import_private_key_ex
+                0x0000000000026626                wc_ecc_import_private_key
+                0x0000000000026638                wc_ecc_rs_to_sig
+                0x00000000000266e8                wc_ecc_rs_raw_to_sig
+                0x0000000000026712                wc_ecc_sig_to_rs
+                0x0000000000026730                wc_ecc_import_raw_ex
+                0x0000000000026742                wc_ecc_import_unsigned
+                0x0000000000026754                wc_ecc_import_raw
+                0x00000000000267a4                wc_ecc_size
+                0x00000000000267ac                wc_ecc_sig_size_calc
+                0x00000000000267bc                wc_ecc_sig_size
+                0x0000000000026842                wc_ecc_mulmod_ex
+                0x000000000002688c                wc_ecc_mulmod
+                0x00000000000268a2                wc_ecc_mulmod_ex2
+                0x00000000000268f4                wc_ecc_fp_init
+                0x00000000000268f6                wc_ecc_fp_free
+                0x00000000000268f8                wc_ecc_set_rng
+                0x0000000000026908                wc_ecc_get_oid
+ .text          0x0000000000026934     0x121a ./build/lib/wolfcrypt/rsa.o
+                0x0000000000026ac0                wc_InitRsaKey_ex
+                0x0000000000026b34                wc_InitRsaKey
+                0x0000000000026b3c                wc_FreeRsaKey
+                0x0000000000026b96                wc_RsaPad_ex
+                0x0000000000026f3a                wc_RsaUnPad_ex
+                0x0000000000027242                wc_hash2mgf
+                0x0000000000027252                wc_RsaFunction
+                0x00000000000274ca                wc_RsaPrivateDecryptInline
+                0x00000000000274fc                wc_RsaPrivateDecryptInline_ex
+                0x000000000002753a                wc_RsaPrivateDecrypt
+                0x000000000002756a                wc_RsaPrivateDecrypt_ex
+                0x00000000000275a6                wc_RsaSSL_VerifyInline
+                0x00000000000275d4                wc_RsaSSL_Verify_ex2
+                0x0000000000027620                wc_RsaSSL_Verify_ex
+                0x0000000000027636                wc_RsaSSL_Verify
+                0x0000000000027648                wc_RsaPSS_VerifyInline_ex
+                0x000000000002767e                wc_RsaPSS_VerifyInline
+                0x0000000000027696                wc_RsaPSS_Verify_ex
+                0x00000000000276ce                wc_RsaPSS_Verify
+                0x00000000000276ec                wc_RsaPSS_CheckPadding_ex
+                0x0000000000027782                wc_RsaPSS_CheckPadding
+                0x0000000000027798                wc_RsaPSS_VerifyCheckInline
+                0x00000000000277fe                wc_RsaPSS_VerifyCheck
+                0x0000000000027862                wc_RsaEncryptSize
+                0x000000000002796e                wc_RsaPublicEncrypt
+                0x0000000000027996                wc_RsaPublicEncrypt_ex
+                0x00000000000279ca                wc_RsaSSL_Sign
+                0x00000000000279f6                wc_RsaPSS_Sign_ex
+                0x0000000000027a28                wc_RsaPSS_Sign
+                0x0000000000027a4c                wc_RsaFlattenPublicKey
+                0x0000000000027ab2                wc_RsaExportKey
+                0x0000000000027b3e                wc_RsaSetRNG
+ *fill*         0x0000000000027b4e        0x2 
+ .text          0x0000000000027b50      0x6b4 ./build/lib/wolfcrypt/hash.o
+                0x0000000000027b50                wc_HashTypeConvert
+                0x0000000000027b5c                wc_HashGetOID
+                0x0000000000027b74                wc_OidGetHash
+                0x0000000000027b94                wc_HashGetDigestSize
+                0x0000000000027bb0                wc_HashGetBlockSize
+                0x0000000000027bcc                wc_HashInit_ex
+                0x0000000000027c14                wc_HashInit
+                0x0000000000027c1e                wc_HashUpdate
+                0x0000000000027c68                wc_HashFinal
+                0x0000000000027c9e                wc_HashFree
+                0x0000000000027cd8                wc_Md5Hash
+                0x0000000000027d24                wc_ShaHash
+                0x0000000000027d76                wc_Sha256Hash
+                0x0000000000027dc8                wc_Hash
+                0x0000000000027e3e                wc_PRF
+                0x0000000000027fc8                wc_PRF_TLSv1
+                0x000000000002815e                wc_PRF_TLS
+ .text          0x0000000000028204      0x500 ./build/lib/wolfcrypt/hmac.o
+                0x0000000000028246                wc_HmacSizeByType
+                0x000000000002825c                _InitHmac
+                0x000000000002828a                wc_HmacUpdate
+                0x00000000000282ee                wc_HmacFinal
+                0x00000000000283ce                wc_HmacInit
+                0x00000000000283f2                wc_HmacFree
+                0x0000000000028448                wc_HmacSetKey
+                0x0000000000028546                wolfSSL_GetHmacMaxSize
+                0x000000000002854a                wc_HKDF_Extract
+                0x00000000000285b8                wc_HKDF_Expand
+                0x00000000000286bc                wc_HKDF
+ .text          0x0000000000028704      0x8e8 ./build/lib/wolfcrypt/md5.o
+                0x0000000000028de0                wc_InitMd5_ex
+                0x0000000000028e18                wc_Md5Update
+                0x0000000000028eda                wc_Md5Final
+                0x0000000000028f98                wc_InitMd5
+                0x0000000000028faa                wc_Md5Free
+                0x0000000000028fac                wc_Md5Copy
+                0x0000000000028fc8                wc_Md5GetHash
+ .text          0x0000000000028fec      0x6d6 ./build/lib/wolfcrypt/pwdbased.o
+                0x0000000000028fec                wc_PBKDF1_ex
+                0x0000000000029196                wc_PBKDF1
+                0x00000000000291be                wc_PBKDF2_ex
+                0x0000000000029358                wc_PBKDF2
+                0x000000000002937e                wc_PKCS12_PBKDF_ex
+                0x000000000002969e                wc_PKCS12_PBKDF
+ .text          0x00000000000296c2       0xf4 ./build/lib/wolfcrypt/random.o
+                0x00000000000296c2                wc_rng_new
+                0x00000000000296e6                wc_rng_free
+                0x0000000000029700                wc_InitRng
+                0x0000000000029710                wc_InitRng_ex
+                0x000000000002971e                wc_InitRngNonce
+                0x0000000000029732                wc_InitRngNonce_ex
+                0x0000000000029744                wc_RNG_GenerateBlock
+                0x0000000000029768                wc_RNG_GenerateByte
+                0x000000000002976e                wc_FreeRng
+                0x000000000002977a                wc_GenerateSeed
+ *fill*         0x00000000000297b6        0x2 
+ .text          0x00000000000297b8      0x50c ./build/lib/wolfcrypt/sha.o
+                0x0000000000029a58                wc_InitSha_ex
+                0x0000000000029a98                wc_ShaUpdate
+                0x0000000000029b68                wc_ShaFinalRaw
+                0x0000000000029b94                wc_ShaFinal
+                0x0000000000029c78                wc_InitSha
+                0x0000000000029c82                wc_ShaFree
+                0x0000000000029c84                wc_ShaCopy
+                0x0000000000029ca0                wc_ShaGetHash
+ .text          0x0000000000029cc4      0x5ec ./build/lib/wolfcrypt/sha256.o
+                0x000000000002a00c                wc_InitSha256_ex
+                0x000000000002a074                wc_Sha256Update
+                0x000000000002a130                wc_Sha256FinalRaw
+                0x000000000002a15a                wc_Sha256Final
+                0x000000000002a264                wc_InitSha256
+                0x000000000002a26e                wc_Sha256Free
+                0x000000000002a270                wc_Sha256Copy
+                0x000000000002a28c                wc_Sha256GetHash
+ .text          0x000000000002a2b0      0x294 ./build/lib/wolfcrypt/wc_encrypt.o
+                0x000000000002a2b0                wc_AesCbcDecryptWithKey
+                0x000000000002a328                wc_AesCbcEncryptWithKey
+                0x000000000002a388                wc_CryptKey
+ .text          0x000000000002a544      0x178 ./build/lib/wolfcrypt/wc_port.o
+                0x000000000002a544                wolfCrypt_Init
+                0x000000000002a560                wolfCrypt_Cleanup
+                0x000000000002a584                wc_strtok
+                0x000000000002a5dc                wc_strsep
+                0x000000000002a610                wc_InitMutex
+                0x000000000002a628                wc_InitAndAllocMutex
+                0x000000000002a646                wc_FreeMutex
+                0x000000000002a652                wc_LockMutex
+                0x000000000002a662                wc_UnLockMutex
+                0x000000000002a674                mystrnstr
+ .text          0x000000000002a6bc      0x16c ./build/lib/wolfcrypt/wolfmath.o
+                0x000000000002a6bc                get_digit_count
+                0x000000000002a6c2                get_digit
+                0x000000000002a6da                mp_cond_copy
+                0x000000000002a782                get_rand_digit
+                0x000000000002a788                mp_rand
+                0x000000000002a7da                wc_export_int
+ .text          0x000000000002a828     0x33e8 ./build/lib/tls13.o
+                0x000000000002ae1c                DeriveResumptionSecret
+                0x000000000002ae58                DeriveEarlySecret
+                0x000000000002af66                DeriveHandshakeSecret
+                0x000000000002afb4                DeriveMasterSecret
+                0x000000000002b000                DeriveTls13Keys
+                0x000000000002b2c4                DecryptTls13
+                0x000000000002b378                BuildTls13Message
+                0x000000000002bd48                RestartHandshakeHash
+                0x000000000002bdaa                SendTls13ClientHello
+                0x000000000002bfda                DoTls13ServerHello
+                0x000000000002c280                DoTls13ClientHello
+                0x000000000002c848                SendTls13ServerHello
+                0x000000000002c95c                DoTls13Finished
+                0x000000000002ca64                DoTls13HandShakeMsgType
+                0x000000000002d25c                DoTls13HandShakeMsg
+                0x000000000002d3c4                wolfSSL_connect_TLSv13
+                0x000000000002d53c                wolfSSL_UseKeyShare
+                0x000000000002d55c                wolfSSL_NoKeyShares
+                0x000000000002d584                wolfSSL_CTX_no_ticket_TLSv13
+                0x000000000002d5b4                wolfSSL_no_ticket_TLSv13
+                0x000000000002d5e4                wolfSSL_CTX_no_dhe_psk
+                0x000000000002d612                wolfSSL_no_dhe_psk
+                0x000000000002d63a                wolfSSL_update_keys
+                0x000000000002d66c                wolfSSL_preferred_group
+                0x000000000002d6b4                wolfSSL_CTX_set_groups
+                0x000000000002d6fc                wolfSSL_set_groups
+                0x000000000002d73e                wolfSSL_CTX_set_psk_client_tls13_callback
+                0x000000000002d74a                wolfSSL_set_psk_client_tls13_callback
+                0x000000000002d7a0                wolfSSL_CTX_set_psk_server_tls13_callback
+                0x000000000002d7ac                wolfSSL_set_psk_server_tls13_callback
+                0x000000000002d802                wolfSSL_accept_TLSv13
+ .text          0x000000000002dc10     0x1a2c ./build/lib/wolfcrypt/sp_c32.o
+                0x000000000002ee3c                sp_ecc_mulmod_256
+                0x000000000002eea0                sp_ecc_mulmod_base_256
+                0x000000000002ef00                sp_ecc_make_key_256
+                0x000000000002ef7c                sp_ecc_secret_gen_256
+                0x000000000002f074                sp_ecc_sign_256
+                0x000000000002f268                sp_ecc_verify_256
+                0x000000000002f478                sp_ecc_is_point_256
+                0x000000000002f4c2                sp_ecc_check_key_256
+ .text          0x000000000002f63c     0x12b4 ./build/lib/wolfcrypt/sp_int.o
+                0x000000000002f908                sp_init
+                0x000000000002f91c                sp_init_size
+                0x000000000002f92e                sp_init_multi
+                0x000000000002f978                sp_free
+                0x000000000002f97a                sp_grow
+                0x000000000002f9a4                sp_zero
+                0x000000000002f9ae                sp_clear
+                0x000000000002f9cc                sp_forcezero
+                0x000000000002f9e8                sp_copy
+                0x000000000002fa18                sp_init_copy
+                0x000000000002fa32                sp_cond_swap_ct
+                0x000000000002fac6                sp_cmp
+                0x000000000002fade                sp_is_bit_set
+                0x000000000002fb02                sp_count_bits
+                0x000000000002fb3e                sp_leading_bit
+                0x000000000002fb5c                sp_set_bit
+                0x000000000002fba6                sp_set
+                0x000000000002fbbc                sp_set_int
+                0x000000000002fbd2                sp_cmp_d
+                0x000000000002fbfc                sp_add_d
+                0x000000000002fc7c                sp_sub_d
+                0x000000000002fc90                sp_add
+                0x000000000002fd76                sp_sub
+                0x000000000002fd90                sp_lshd
+                0x000000000002fde4                sp_rshd
+                0x000000000002fe10                sp_rshb
+                0x0000000000030184                sp_mod
+                0x0000000000030196                sp_mul
+                0x00000000000302ae                sp_mulmod
+                0x0000000000030312                sp_invmod
+                0x0000000000030510                sp_sqr
+                0x0000000000030518                sp_sqrmod
+                0x000000000003054a                sp_unsigned_bin_size
+                0x000000000003055e                sp_read_unsigned_bin
+                0x0000000000030610                sp_to_unsigned_bin_len
+                0x0000000000030660                sp_to_unsigned_bin
+                0x0000000000030674                sp_read_radix
+                0x0000000000030718                sp_tohex
+                0x00000000000307bc                sp_gcd
+                0x00000000000308e8                CheckRunTimeSettings
+                0x00000000000308ec                CheckRunTimeFastMath
+ .text          0x00000000000308f0      0xd60 build/lib/libpicotcp.a(pico_ipv4.o)
+                0x0000000000030a14                pico_ipv4_compare
+                0x0000000000030a8e                pico_ipv4_to_string
+                0x0000000000030b20                pico_string_to_ipv4
+                0x0000000000030bc4                pico_ipv4_valid_netmask
+                0x0000000000030bf4                pico_ipv4_is_unicast
+                0x0000000000030c00                pico_ipv4_is_multicast
+                0x0000000000030c18                pico_ipv4_is_loopback
+                0x0000000000030c24                pico_socket_ipv4_open
+                0x0000000000030c7c                pico_socket_ipv4_recvfrom
+                0x0000000000030d10                pico_socket_ipv4_close
+                0x0000000000030d34                pico_ipv4_route_get_gateway
+                0x0000000000030d84                pico_ipv4_source_find
+                0x0000000000030db0                pico_ipv4_source_dev_find
+                0x0000000000030ddc                pico_ipv4_mcast_join
+                0x0000000000030dec                pico_ipv4_mcast_leave
+                0x0000000000030dfc                pico_ipv4_get_default_mcastlink
+                0x0000000000030e0c                pico_ipv4_route_add
+                0x0000000000030ea0                pico_ipv4_route_del
+                0x0000000000030ee4                pico_ipv4_link_add
+                0x0000000000030f84                pico_ipv4_route_set_bcast_link
+                0x0000000000030f90                pico_ipv4_link_del
+                0x0000000000031020                pico_ipv4_link_get
+                0x0000000000031040                pico_ipv4_frame_push
+                0x0000000000031148                pico_socket_ipv4_sendto
+                0x00000000000311ba                pico_ipv4_link_by_dev
+                0x00000000000311e8                pico_ipv4_link_by_dev_next
+                0x0000000000031228                pico_ipv4_link_find
+                0x000000000003125c                pico_ipv4_rebound
+                0x000000000003130c                pico_ipv4_is_broadcast
+                0x0000000000031348                pico_ipv4_is_valid_src
+                0x00000000000315fc                pico_ipv4_unreachable
+                0x0000000000031612                pico_ipv4_cleanup_links
+ .text          0x0000000000031650      0x1ee build/lib/libpicotcp.a(pico_udp.o)
+                0x00000000000316f2                pico_udp_checksum_ipv4
+                0x000000000003172e                pico_udp_open
+                0x000000000003174c                pico_udp_recv
+ *fill*         0x000000000003183e        0x2 
+ .text          0x0000000000031840      0x350 build/lib/libpicotcp.a(pico_device.o)
+                0x00000000000318dc                pico_device_ipv6_random_ll
+                0x00000000000318e0                pico_device_init
+                0x000000000003199c                pico_device_destroy
+                0x00000000000319f0                pico_devices_loop
+                0x0000000000031ad4                pico_get_device
+                0x0000000000031b10                pico_device_broadcast
+                0x0000000000031b84                pico_device_link_state
+ .text          0x0000000000031b90      0x330 build/lib/libpicotcp.a(pico_frame.o)
+                0x0000000000031c68                pico_frame_discard
+                0x0000000000031cb2                pico_frame_copy
+                0x0000000000031cda                pico_frame_alloc
+                0x0000000000031d26                pico_frame_grow_head
+                0x0000000000031d66                pico_frame_grow
+                0x0000000000031d98                pico_frame_alloc_skeleton
+                0x0000000000031df8                pico_frame_skeleton_set_buffer
+                0x0000000000031e08                pico_frame_deepcopy
+                0x0000000000031e78                pico_checksum
+                0x0000000000031e96                pico_dualbuffer_checksum
+ .text          0x0000000000031ec0     0x1294 build/lib/libpicotcp.a(pico_socket.o)
+                0x0000000000032054                pico_get_sockport
+                0x0000000000032102                pico_is_port_free
+                0x0000000000032154                pico_sockets_find
+                0x0000000000032188                pico_socket_add
+                0x0000000000032238                pico_socket_del
+                0x0000000000032338                pico_socket_set_family
+                0x0000000000032350                pico_socket_open
+                0x0000000000032394                pico_socket_clone
+                0x0000000000032410                pico_socket_read
+                0x0000000000032478                get_sock_dev
+                0x0000000000032498                pico_socket_get_mss
+                0x00000000000324e4                pico_socket_recvfrom_extended
+                0x0000000000032590                pico_socket_recvfrom
+                0x00000000000325a2                pico_socket_recv
+                0x00000000000325b2                pico_socket_getname
+                0x00000000000325e8                pico_socket_getpeername
+                0x000000000003262c                pico_socket_bind
+                0x00000000000326b4                pico_socket_connect
+                0x0000000000032764                pico_socket_listen
+                0x00000000000327bc                pico_socket_accept
+                0x0000000000032868                pico_socket_setoption
+                0x0000000000032894                pico_socket_getoption
+                0x00000000000328c0                pico_socket_shutdown
+                0x0000000000032954                pico_socket_close
+                0x0000000000032996                pico_transport_process_in
+                0x0000000000032a40                pico_socket_sanity_check
+                0x0000000000032a78                pico_sockets_loop
+                0x0000000000032bcc                pico_count_sockets
+                0x0000000000032c50                pico_socket_frame_alloc
+                0x0000000000032d64                pico_socket_sendto_extended
+                0x0000000000032fe8                pico_socket_sendto
+                0x0000000000032ffc                pico_socket_write
+                0x000000000003305c                pico_socket_send
+                0x00000000000330a8                pico_transport_error
+ .text          0x0000000000033154      0x9ac build/lib/libpicotcp.a(pico_stack.o)
+                0x0000000000033368                pico_rand_feed
+                0x0000000000033620                pico_rand
+                0x0000000000033634                pico_to_lowercase
+                0x000000000003364e                pico_notify_socket_unreachable
+                0x0000000000033668                pico_notify_proto_unreachable
+                0x0000000000033682                pico_notify_dest_unreachable
+                0x000000000003369c                pico_notify_ttl_expired
+                0x00000000000336b6                pico_notify_frag_expired
+                0x00000000000336d0                pico_notify_pkt_too_big
+                0x00000000000336ea                pico_transport_receive
+                0x0000000000033730                pico_network_receive
+                0x0000000000033764                pico_network_send
+                0x0000000000033786                pico_source_is_local
+                0x00000000000337b2                pico_store_network_origin
+                0x00000000000337c8                pico_address_compare
+                0x00000000000337d2                pico_frame_dst_is_unicast
+                0x0000000000033802                pico_datalink_receive
+                0x0000000000033828                pico_stack_recv_new_frame
+                0x000000000003387c                pico_stack_recv
+                0x00000000000338a4                pico_stack_recv_zerocopy
+                0x00000000000338b4                pico_stack_recv_zerocopy_ext_buffer
+                0x00000000000338c6                pico_stack_recv_zerocopy_ext_buffer_notify
+                0x00000000000338d6                pico_sendto_dev
+                0x000000000003391e                pico_datalink_send
+                0x0000000000033934                pico_seq_compare
+                0x000000000003394e                pico_timer_cancel
+                0x0000000000033990                pico_timer_cancel_hashed
+                0x00000000000339dc                pico_stack_loop
+                0x00000000000339e4                pico_timer_add
+                0x0000000000033a34                pico_timer_add_hashed
+                0x0000000000033a90                pico_stack_init
+                0x0000000000033afc                pico_stack_tick
+ .text          0x0000000000033b00      0x448 build/lib/libpicotcp.a(pico_tree.o)
+                0x0000000000033b90                pico_tree_firstNode
+                0x0000000000033ba4                pico_tree_lastNode
+                0x0000000000033bb8                pico_tree_next
+                0x0000000000033bf0                pico_tree_prev
+                0x0000000000033c28                pico_tree_findNode
+                0x0000000000033c58                pico_tree_findKey
+                0x0000000000033c64                pico_tree_insert_implementation
+                0x0000000000033d84                pico_tree_insert
+                0x0000000000033d8a                pico_tree_first
+                0x0000000000033da0                pico_tree_last
+                0x0000000000033db4                pico_tree_delete_implementation
+                0x0000000000033f2c                pico_tree_delete
+                0x0000000000033f32                pico_tree_empty
+ .text          0x0000000000033f48      0x570 build/lib/libpicotcp.a(pico_arp.o)
+                0x0000000000034008                pico_arp_init
+                0x000000000003401c                pico_arp_lookup
+                0x0000000000034040                pico_arp_reverse_lookup
+                0x0000000000034080                pico_arp_postpone
+                0x00000000000340a8                pico_arp_create_entry
+                0x00000000000340fc                pico_arp_receive
+                0x0000000000034298                pico_arp_request
+                0x000000000003435c                pico_arp_get
+                0x0000000000034454                pico_arp_get_neighbors
+                0x000000000003449c                pico_arp_register_ipconflict
+ .text          0x00000000000344b8      0x744 build/lib/libpicotcp.a(pico_dns_client.o)
+                0x0000000000034af4                pico_dns_client_getaddr
+                0x0000000000034af6                pico_dns_client_getaddr6
+                0x0000000000034af8                pico_dns_client_getname
+                0x0000000000034afc                pico_dns_client_getname6
+                0x0000000000034b00                pico_dns_client_init
+                0x0000000000034b68                pico_dns_client_nameserver
+ .text          0x0000000000034bfc      0xcc4 build/lib/libpicotcp.a(pico_dns_common.o)
+                0x0000000000034d04                pico_dns_check_namelen
+                0x0000000000034d12                pico_dns_namelen_comp
+                0x0000000000034d58                pico_dns_decompress_name
+                0x0000000000034e58                pico_dns_strlen
+                0x0000000000034f08                pico_dns_name_to_dns_notation
+                0x0000000000034f50                pico_dns_url_to_qname
+                0x0000000000034f9c                pico_dns_notation_to_name
+                0x0000000000034fc8                pico_dns_qname_to_url
+                0x000000000003502c                pico_dns_first_label_length
+                0x0000000000035046                pico_dns_mirror_addr
+                0x000000000003506e                pico_dns_question_delete
+                0x00000000000350a8                pico_dns_question_fill_suffix
+                0x00000000000350bc                pico_dns_question_create
+                0x00000000000351e4                pico_dns_question_decompress
+                0x00000000000351f6                pico_dns_record_delete
+                0x000000000003522a                pico_dns_record_copy
+                0x00000000000352d8                pico_dns_record_create
+                0x00000000000353c4                pico_dns_record_decompress
+                0x00000000000353d6                pico_dns_rdata_cmp
+                0x0000000000035448                pico_dns_question_cmp
+                0x00000000000354a0                pico_dns_record_cmp_name_type
+                0x00000000000354f8                pico_dns_record_cmp
+                0x0000000000035538                pico_tree_destroy
+                0x0000000000035594                pico_tree_count
+                0x00000000000355bc                pico_dns_qtree_del_name
+                0x0000000000035624                pico_dns_qtree_find_name
+                0x0000000000035668                pico_dns_fill_packet_header
+                0x00000000000358a8                pico_dns_query_create
+                0x00000000000358aa                pico_dns_answer_create
+ .text          0x00000000000358c0      0x274 build/lib/libpicotcp.a(pico_ethernet.o)
+                0x00000000000358e4                pico_ethernet_receive
+                0x00000000000359fa                pico_ethernet_send
+ .text          0x0000000000035b34      0x268 build/lib/libpicotcp.a(pico_fragments.o)
+                0x0000000000035bb8                pico_ipv6_process_frag
+                0x0000000000035bba                pico_ipv4_process_frag
+ .text          0x0000000000035d9c      0x6a0 build/lib/libpicotcp.a(pico_icmp4.o)
+                0x00000000000361c8                pico_socket_icmp4_open
+                0x0000000000036204                pico_socket_icmp4_bind
+                0x000000000003624c                pico_socket_icmp4_recvfrom
+                0x00000000000362e0                pico_socket_icmp4_sendto_check
+                0x000000000003630c                pico_socket_icmp4_close
+                0x0000000000036330                pico_icmp4_port_unreachable
+                0x0000000000036336                pico_icmp4_proto_unreachable
+                0x000000000003633c                pico_icmp4_dest_unreachable
+                0x0000000000036342                pico_icmp4_ttl_expired
+                0x0000000000036348                pico_icmp4_frag_expired
+                0x000000000003634e                pico_icmp4_mtu_exceeded
+                0x0000000000036354                pico_icmp4_packet_filtered
+                0x000000000003635a                pico_icmp4_param_problem
+                0x0000000000036360                pico_icmp4_ping
+                0x00000000000363f4                pico_icmp4_ping_abort
+ .text          0x000000000003643c      0x258 build/lib/libpicotcp.a(pico_ipfilter.o)
+                0x0000000000036524                pico_ipv4_filter_add
+                0x00000000000365e8                pico_ipv4_filter_del
+                0x0000000000036618                ipfilter
+ .text          0x0000000000036694      0x220 build/lib/libpicotcp.a(pico_socket_tcp.o)
+                0x0000000000036694                pico_getsockopt_tcp
+                0x00000000000366e8                pico_setsockopt_tcp
+                0x0000000000036770                pico_socket_tcp_cleanup
+                0x0000000000036784                pico_socket_tcp_delete
+                0x0000000000036794                pico_socket_tcp_deliver
+                0x0000000000036848                pico_socket_tcp_open
+                0x0000000000036868                pico_socket_tcp_read
+                0x00000000000368a0                transport_flags_update
+ .text          0x00000000000368b4      0x208 build/lib/libpicotcp.a(pico_socket_udp.o)
+                0x000000000003693c                pico_socket_udp_open
+                0x0000000000036964                pico_socket_udp_deliver
+                0x0000000000036a70                pico_setsockopt_udp
+                0x0000000000036a98                pico_getsockopt_udp
+ .text          0x0000000000036abc     0x26a8 build/lib/libpicotcp.a(pico_tcp.o)
+                0x0000000000037364                pico_tcp_queue_in_is_empty
+                0x0000000000037370                pico_tcp_checksum_ipv4
+                0x00000000000373ac                pico_tcp_checksum
+                0x0000000000037f2c                pico_tcp_overhead
+                0x000000000003802c                pico_tcp_push
+                0x000000000003815c                pico_tcp_open
+                0x0000000000038214                pico_tcp_read
+                0x00000000000382e4                pico_tcp_initconn
+                0x00000000000383fc                pico_tcp_reply_rst
+                0x00000000000385ce                pico_tcp_get_socket_mss
+                0x00000000000385e4                pico_tcp_input
+                0x0000000000038728                pico_tcp_output
+                0x0000000000039044                pico_tcp_out_all
+                0x000000000003907e                pico_tcp_cleanup_queues
+                0x00000000000390c4                pico_tcp_notify_closing
+                0x00000000000390f6                pico_tcp_check_listen_close
+                0x0000000000039114                pico_tcp_flags_update
+                0x000000000003911e                pico_tcp_set_bufsize_in
+                0x0000000000039126                pico_tcp_set_bufsize_out
+                0x000000000003912e                pico_tcp_get_bufsize_in
+                0x0000000000039138                pico_tcp_get_bufsize_out
+                0x0000000000039142                pico_tcp_set_keepalive_probes
+                0x000000000003914a                pico_tcp_set_keepalive_intvl
+                0x0000000000039152                pico_tcp_set_keepalive_time
+                0x000000000003915a                pico_tcp_set_linger
+ .text          0x0000000000039164       0x60 build/lib/libpicotcp.a(pico_jobs.o)
+                0x0000000000039164                pico_schedule_job
+                0x0000000000039198                pico_execute_pending_jobs
+ .text          0x00000000000391c4      0x1a8 build/lib/libpicotcp.a(pico_protocol.o)
+                0x00000000000392ee                pico_protocol_datalink_loop
+                0x00000000000392fc                pico_protocol_network_loop
+                0x0000000000039308                pico_protocol_transport_loop
+                0x0000000000039314                pico_protocol_socket_loop
+                0x0000000000039320                pico_protocol_init
+ .text          0x000000000003936c       0x54 build/lib/libpicotcp.a(pico_socket_multicast.o)
+                0x000000000003936c                pico_udp_set_mc_ttl
+                0x000000000003937c                pico_udp_get_mc_ttl
+                0x000000000003938c                pico_socket_mcast_filter
+                0x000000000003939c                pico_multicast_delete
+                0x000000000003939e                pico_getsockopt_mcast
+                0x00000000000393b0                pico_setsockopt_mcast
+ .text          0x00000000000393c0       0xa0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+                0x00000000000393c0                __aeabi_ldivmod
+ .text          0x0000000000039460       0x30 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+                0x0000000000039460                __aeabi_uldivmod
+ .text          0x0000000000039490      0x2d0 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x0000000000039490                __udivmoddi4
+ .text          0x0000000000039760        0x4 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+                0x0000000000039760                __aeabi_ldiv0
+                0x0000000000039760                __aeabi_idiv0
+ .text.memcmp   0x0000000000039764       0x20 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcmp.o)
+                0x0000000000039764                memcmp
+ .text.memcpy   0x0000000000039784       0x1c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+                0x0000000000039784                memcpy
+ .text.memmove  0x00000000000397a0       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+                0x00000000000397a0                memmove
+ .text.memset   0x00000000000397d4       0x10 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+                0x00000000000397d4                memset
+ .text.strcasecmp
+                0x00000000000397e4       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcasecmp.o)
+                0x00000000000397e4                strcasecmp
+ .text          0x0000000000039818       0x14 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcmp.o)
+                0x0000000000039818                strcmp
+ .text.strcpy   0x000000000003982c       0x10 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcpy.o)
+                0x000000000003982c                strcpy
+ .text          0x000000000003983c       0x10 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+                0x000000000003983c                strlen
+ .text.strncasecmp
+                0x000000000003984c       0x44 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncasecmp.o)
+                0x000000000003984c                strncasecmp
+ .text.strncmp  0x0000000000039890       0x28 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncmp.o)
+                0x0000000000039890                strncmp
+ .text.strncpy  0x00000000000398b8       0x26 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncpy.o)
+                0x00000000000398b8                strncpy
+ .text.strstr   0x00000000000398de       0x2c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strstr.o)
+                0x00000000000398de                strstr
+ *(.rodata*)
+ .rodata.str1.1
+                0x000000000003990a       0x7c ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+                                         0x95 (size before relaxing)
+ *fill*         0x0000000000039986        0x2 
+ .rodata        0x0000000000039988      0x100 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .rodata        0x0000000000039a88       0x1e ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_flash.o
+ *fill*         0x0000000000039aa6        0x2 
+ .rodata        0x0000000000039aa8       0x1c ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_cache.o
+ .rodata        0x0000000000039ac4        0xc ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_controller.o
+ .rodata.str1.1
+                0x0000000000039ad0      0x33e ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_enet.o
+ *fill*         0x0000000000039e0e        0x2 
+ .rodata        0x0000000000039e10      0x230 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_enet.o
+                0x000000000003a03c                s_enetClock
+ .rodata        0x000000000003a040        0x4 ../wolfBoot/src/libwolfboot.o
+ .rodata.str1.1
+                0x000000000003a044        0x9 ../wolfBoot/hal/kinetis.o
+ *fill*         0x000000000003a04d        0x3 
+ .rodata        0x000000000003a050       0x37 src/clock_config.o
+                0x000000000003a050                oscConfig_BOARD_BootClockRUN
+                0x000000000003a058                mcgConfig_BOARD_BootClockRUN
+                0x000000000003a064                simConfig_BOARD_BootClockRUN
+                0x000000000003a06c                oscConfig_BOARD_BootClockVLPR
+                0x000000000003a074                simConfig_BOARD_BootClockVLPR
+                0x000000000003a07c                mcgConfig_BOARD_BootClockVLPR
+ .rodata.str1.1
+                0x000000000003a087       0x4e src/main.o
+ .rodata        0x000000000003a0d5      0x143 src/main.o
+ .rodata.str1.1
+                0x000000000003a218        0x5 freeRTOS/tasks.o
+ .rodata.str1.1
+                0x000000000003a21d        0xd freeRTOS/timers.o
+ .rodata.str1.1
+                0x000000000003a22a       0x51 ../../SDK_2_10_0_FRDM-K64F/components/phyksz8081/fsl_phy.o
+ .rodata        0x000000000003a27b       0x32 ../../SDK_2_10_0_FRDM-K64F/components/phyksz8081/fsl_phy.o
+ .rodata        0x000000000003a2ad       0x79 src/server_ecc_key.o
+                0x000000000003a2ad                server_key
+ *fill*         0x000000000003a326        0x2 
+ .rodata        0x000000000003a328      0x358 src/server_ecc_cert.o
+                0x000000000003a328                server_cert_len
+                0x000000000003a32c                server_cert
+ .rodata.str1.1
+                0x000000000003a680     0x1342 ./build/lib/internal.o
+ *fill*         0x000000000003b9c2        0x2 
+ .rodata        0x000000000003b9c4      0x8eb ./build/lib/internal.o
+ .rodata.str1.1
+                0x000000000003c2af       0x2d ./build/lib/keys.o
+                                         0x36 (size before relaxing)
+ .rodata.str1.1
+                0x000000000003c2dc       0x52 ./build/lib/ssl.o
+                                         0x5a (size before relaxing)
+ *fill*         0x000000000003c32e        0x2 
+ .rodata        0x000000000003c330       0x14 ./build/lib/ssl.o
+ .rodata        0x000000000003c344       0x45 ./build/lib/tls.o
+ *fill*         0x000000000003c389        0x3 
+ .rodata        0x000000000003c38c     0x2128 ./build/lib/wolfcrypt/aes.o
+ .rodata.str1.1
+                0x000000000003e4b4      0x21b ./build/lib/wolfcrypt/asn.o
+ *fill*         0x000000000003e6cf        0x1 
+ .rodata        0x000000000003e6d0      0x1e8 ./build/lib/wolfcrypt/asn.o
+                0x000000000003e878                END_PUB_KEY
+                0x000000000003e87c                BEGIN_PUB_KEY
+                0x000000000003e880                END_DSA_PRIV
+                0x000000000003e884                BEGIN_DSA_PRIV
+                0x000000000003e888                END_EC_PRIV
+                0x000000000003e88c                BEGIN_EC_PRIV
+                0x000000000003e890                END_ENC_PRIV_KEY
+                0x000000000003e894                BEGIN_ENC_PRIV_KEY
+                0x000000000003e898                END_PRIV_KEY
+                0x000000000003e89c                BEGIN_PRIV_KEY
+                0x000000000003e8a0                END_RSA_PRIV
+                0x000000000003e8a4                BEGIN_RSA_PRIV
+                0x000000000003e8a8                END_X509_CRL
+                0x000000000003e8ac                BEGIN_X509_CRL
+                0x000000000003e8b0                END_CERT
+                0x000000000003e8b4                BEGIN_CERT
+ .rodata        0x000000000003e8b8       0x50 ./build/lib/wolfcrypt/coding.o
+ .rodata.str1.1
+                0x000000000003e908     0x14c6 ./build/lib/wolfcrypt/error.o
+                                       0x1514 (size before relaxing)
+ *fill*         0x000000000003fdce        0x2 
+ .rodata        0x000000000003fdd0      0x2bc ./build/lib/wolfcrypt/error.o
+ .rodata.str1.1
+                0x000000000004008c      0x190 ./build/lib/wolfcrypt/ecc.o
+ .rodata        0x000000000004021c       0x74 ./build/lib/wolfcrypt/ecc.o
+                0x000000000004021c                ecc_sets
+                0x000000000004028c                ecc_sets_count
+ .rodata        0x0000000000040290       0x56 ./build/lib/wolfcrypt/hash.o
+ .rodata        0x00000000000402e6        0x8 ./build/lib/wolfcrypt/hmac.o
+ *fill*         0x00000000000402ee        0x2 
+ .rodata        0x00000000000402f0      0x100 ./build/lib/wolfcrypt/sha256.o
+ .rodata        0x00000000000403f0       0xb9 ./build/lib/tls13.o
+ *fill*         0x00000000000404a9        0x3 
+ .rodata        0x00000000000404ac      0x22c ./build/lib/wolfcrypt/sp_c32.o
+ .rodata        0x00000000000406d8       0x18 ./build/lib/wolfcrypt/sp_int.o
+                0x00000000000406e8                sp_off_on_addr
+ .rodata.str1.1
+                0x00000000000406f0        0x5 build/lib/libpicotcp.a(pico_ipv4.o)
+ *fill*         0x00000000000406f5        0x3 
+ .rodata        0x00000000000406f8        0xc build/lib/libpicotcp.a(pico_socket.o)
+ .rodata.str1.1
+                0x0000000000040704       0x1d build/lib/libpicotcp.a(pico_dns_client.o)
+                                         0x1e (size before relaxing)
+ .rodata.str1.1
+                0x0000000000040721        0xe build/lib/libpicotcp.a(pico_dns_common.o)
+ *fill*         0x0000000000040721        0x3 
+ .rodata        0x0000000000040724       0x10 build/lib/libpicotcp.a(pico_dns_common.o)
+ .rodata        0x0000000000040734       0x12 build/lib/libpicotcp.a(pico_ethernet.o)
+                0x000000000004073a                PICO_ETHADDR_ALL
+ *fill*         0x0000000000040746        0x2 
+ .rodata        0x0000000000040748        0xc build/lib/libpicotcp.a(pico_ipfilter.o)
+ .rodata        0x0000000000040754      0x1f8 build/lib/libpicotcp.a(pico_tcp.o)
+ .rodata        0x000000000004094c       0x20 build/lib/libpicotcp.a(pico_protocol.o)
+ .rodata._ctype_
+                0x000000000004096c      0x101 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+                0x000000000004096c                _ctype_
+ *(.init*)
+ *(.fini*)
+                0x0000000000040a70                . = ALIGN (0x4)
+ *fill*         0x0000000000040a6d        0x3 
+                0x0000000000040a70                _end_text = .
+
+.glue_7         0x0000000000040a70        0x0
+ .glue_7        0x0000000000040a70        0x0 linker stubs
+
+.glue_7t        0x0000000000040a70        0x0
+ .glue_7t       0x0000000000040a70        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000040a70        0x0
+ .vfp11_veneer  0x0000000000040a70        0x0 linker stubs
+
+.v4_bx          0x0000000000040a70        0x0
+ .v4_bx         0x0000000000040a70        0x0 linker stubs
+
+.iplt           0x0000000000040a70        0x0
+ .iplt          0x0000000000040a70        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+
+.edidx          0x0000000000040a70        0x8
+                0x0000000000040a70                . = ALIGN (0x4)
+ *(.ARM.exidx*)
+ .ARM.exidx     0x0000000000040a70        0x8 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+                0x0000000000040a78                _stored_data = .
+
+.rel.dyn        0x0000000000040a78        0x0
+ .rel.iplt      0x0000000000040a78        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+
+.data           0x0000000020000000      0x4f0 load address 0x0000000000040a78
+                0x0000000020000000                _start_data = .
+                0x0000000020000000                __data_section_table = .
+ *(.data*)
+ .data          0x0000000020000000        0x8 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .data          0x0000000020000008      0x294 src/main.o
+ .data          0x000000002000029c        0x4 freeRTOS/portable/GCC/ARM_CM4F/port.o
+ .data          0x00000000200002a0        0x6 src/pico_enet_kinetis.o
+                0x00000000200002a0                g_macAddr
+ *fill*         0x00000000200002a6        0x2 
+ .data          0x00000000200002a8        0x4 src/server_ecc_key.o
+                0x00000000200002a8                server_key_len
+ .data          0x00000000200002ac       0x20 ./build/lib/tls13.o
+ .data          0x00000000200002cc       0x64 build/lib/libpicotcp.a(pico_ipv4.o)
+                0x00000000200002e0                Routes
+                0x00000000200002fc                pico_proto_ipv4
+ .data          0x0000000020000330       0x34 build/lib/libpicotcp.a(pico_udp.o)
+                0x0000000020000330                pico_proto_udp
+ .data          0x0000000020000364        0x8 build/lib/libpicotcp.a(pico_device.o)
+                0x0000000020000364                Device_tree
+ .data          0x000000002000036c       0x10 build/lib/libpicotcp.a(pico_socket.o)
+ .data          0x000000002000037c       0x2c build/lib/libpicotcp.a(pico_stack.o)
+ .data          0x00000000200003a8       0x14 build/lib/libpicotcp.a(pico_tree.o)
+                0x00000000200003a8                LEAF
+ .data          0x00000000200003bc        0xc build/lib/libpicotcp.a(pico_arp.o)
+ .data          0x00000000200003c8       0x10 build/lib/libpicotcp.a(pico_dns_client.o)
+ .data          0x00000000200003d8       0x34 build/lib/libpicotcp.a(pico_ethernet.o)
+                0x00000000200003d8                pico_proto_ethernet
+ .data          0x000000002000040c        0x8 build/lib/libpicotcp.a(pico_fragments.o)
+ .data          0x0000000020000414       0x4a build/lib/libpicotcp.a(pico_icmp4.o)
+                0x0000000020000428                pico_proto_icmp4
+ *fill*         0x000000002000045e        0x2 
+ .data          0x0000000020000460        0xc build/lib/libpicotcp.a(pico_ipfilter.o)
+ .data          0x000000002000046c       0x34 build/lib/libpicotcp.a(pico_tcp.o)
+                0x000000002000046c                pico_proto_tcp
+ .data          0x00000000200004a0       0x50 build/lib/libpicotcp.a(pico_protocol.o)
+                0x00000000200004f0                . = ALIGN (0x4)
+                0x00000000200004f0                _end_data = .
+                0x00000000200004f0                __data_section_table_end = .
+
+.igot.plt       0x00000000200004f0        0x0 load address 0x0000000000040f68
+ .igot.plt      0x00000000200004f0        0x0 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+
+.bss            0x00000000200004f0    0x25dac load address 0x0000000000040f70
+                0x00000000200004f0                _start_bss = .
+ *(.bss*)
+ .bss           0x00000000200004f0        0x8 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+                0x00000000200004f0                g_xtal0Freq
+                0x00000000200004f4                g_xtal32Freq
+ .bss           0x00000000200004f8       0x40 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_cache.o
+ .bss           0x0000000020000538       0x40 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_controller.o
+ .bss           0x0000000020000578       0x10 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_enet.o
+ *fill*         0x0000000020000588        0x8 
+ .bss           0x0000000020000590     0x1000 ../wolfBoot/src/libwolfboot.o
+ .bss           0x0000000020001590       0x70 ../wolfBoot/hal/kinetis.o
+ .bss           0x0000000020001600        0x4 src/clock_config.o
+                0x0000000020001600                SystemCoreClock
+ .bss           0x0000000020001604      0xc0c src/main.o
+                0x0000000020001a10                fw_buffer
+ .bss           0x0000000020002210       0x40 freeRTOS/queue.o
+                0x0000000020002210                xQueueRegistry
+ .bss           0x0000000020002250      0x104 freeRTOS/tasks.o
+                0x0000000020002254                pxCurrentTCB
+ .bss           0x0000000020002354       0x3c freeRTOS/timers.o
+ .bss           0x0000000020002390        0x8 freeRTOS/portable/GCC/ARM_CM4F/port.o
+ .bss           0x0000000020002398       0x18 freeRTOS/portable/MemMang/heap_5.o
+ .bss           0x00000000200023b0     0x3630 src/pico_enet_kinetis.o
+                0x00000000200023b0                g_handle
+                0x0000000020002a20                g_rxBuffDescrip
+                0x0000000020002a40                g_txBuffDescrip
+                0x0000000020002a60                g_txDataBuff
+                0x0000000020004220                g_rxDataBuff
+ .bss           0x00000000200059e0        0x8 ./build/lib/ssl.o
+ .bss           0x00000000200059e8        0x4 ./build/lib/wolfcrypt/wc_port.o
+ .bss           0x00000000200059ec       0x50 build/lib/libpicotcp.a(pico_ipv4.o)
+ .bss           0x0000000020005a3c       0x40 build/lib/libpicotcp.a(pico_udp.o)
+ .bss           0x0000000020005a7c        0x8 build/lib/libpicotcp.a(pico_device.o)
+ .bss           0x0000000020005a84       0x14 build/lib/libpicotcp.a(pico_socket.o)
+ .bss           0x0000000020005a98      0x124 build/lib/libpicotcp.a(pico_stack.o)
+                0x0000000020005a9c                pico_err
+                0x0000000020005aa8                pico_tick
+ .bss           0x0000000020005bbc       0x28 build/lib/libpicotcp.a(pico_arp.o)
+ .bss           0x0000000020005be4      0x5dc build/lib/libpicotcp.a(pico_dns_client.o)
+ .bss           0x00000000200061c0       0x40 build/lib/libpicotcp.a(pico_ethernet.o)
+ .bss           0x0000000020006200        0x8 build/lib/libpicotcp.a(pico_fragments.o)
+ .bss           0x0000000020006208       0x48 build/lib/libpicotcp.a(pico_icmp4.o)
+ .bss           0x0000000020006250       0x44 build/lib/libpicotcp.a(pico_tcp.o)
+ .bss           0x0000000020006294        0x8 build/lib/libpicotcp.a(pico_jobs.o)
+                0x0000000020006294                pico_jobs_backlog
+                0x0000000020006298                pico_jobs_backlog_tail
+ *(COMMON)
+                0x000000002000629c                . = ALIGN (0x4)
+                0x000000002000629c                _end_bss = .
+                0x000000002000629c                _end = .
+                0x000000002000629c                __bss_section_table_end = .
+                0x000000002000629c                . = ALIGN (0x4)
+ *(.noinit_Heap5)
+ .noinit_Heap5  0x000000002000629c    0x20000 src/main.o
+
+.lomem          0x000000001fffc000     0x4000
+ *(.noinit.*)
+ .noinit.$SRAM_LOWER_Heap5
+                0x000000001fffc000     0x4000 src/main.o
+                0x0000000020000000                . = ALIGN (0x4)
+                0x000000002000629c                _start_heap = _end
+                0x000000001fffc000                __StackTop = (ORIGIN (SRAM_LO_STACK) + 0xc000)
+                0x000000001fffc000                _vStackTop = __StackTop
+OUTPUT(image.elf elf32-littlearm)
+LOAD linker stubs
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_flash.o
+ .comment       0x0000000000000049       0x4a ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_cache.o
+ .comment       0x0000000000000049       0x4a ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_controller.o
+ .comment       0x0000000000000049       0x4a ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_enet.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/src/libwolfboot.o
+ .comment       0x0000000000000049       0x4a ../wolfBoot/hal/kinetis.o
+ .comment       0x0000000000000049       0x4a src/clock_config.o
+ .comment       0x0000000000000049       0x4a src/main.o
+ .comment       0x0000000000000049       0x4a src/pin_mux.o
+ .comment       0x0000000000000049       0x4a freeRTOS/list.o
+ .comment       0x0000000000000049       0x4a freeRTOS/queue.o
+ .comment       0x0000000000000049       0x4a freeRTOS/tasks.o
+ .comment       0x0000000000000049       0x4a freeRTOS/timers.o
+ .comment       0x0000000000000049       0x4a freeRTOS/portable/GCC/ARM_CM4F/port.o
+ .comment       0x0000000000000049       0x4a freeRTOS/portable/MemMang/heap_5.o
+ .comment       0x0000000000000049       0x4a src/startup_mk64f12.o
+ .comment       0x0000000000000049       0x4a src/pico_enet_kinetis.o
+ .comment       0x0000000000000049       0x4a ../../SDK_2_10_0_FRDM-K64F/components/phyksz8081/fsl_phy.o
+ .comment       0x0000000000000049       0x4a src/server_ecc_key.o
+ .comment       0x0000000000000049       0x4a src/server_ecc_cert.o
+ .comment       0x0000000000000049       0x4a src/picotcp.o
+ .comment       0x0000000000000049       0x4a ./build/lib/internal.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfio.o
+ .comment       0x0000000000000049       0x4a ./build/lib/keys.o
+ .comment       0x0000000000000049       0x4a ./build/lib/ssl.o
+ .comment       0x0000000000000049       0x4a ./build/lib/tls.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/aes.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/asn.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/coding.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/error.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/ecc.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/rsa.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/hash.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/hmac.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/md5.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/pwdbased.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/random.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/sha.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/sha256.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/wc_encrypt.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/wc_port.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/wolfmath.o
+ .comment       0x0000000000000049       0x4a ./build/lib/tls13.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/sp_c32.o
+ .comment       0x0000000000000049       0x4a ./build/lib/wolfcrypt/sp_int.o
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_ipv4.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_udp.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_device.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_frame.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_socket.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_stack.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_tree.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_arp.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_dns_client.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_dns_common.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_ethernet.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_fragments.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_icmp4.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_ipfilter.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_socket_tcp.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_socket_udp.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_tcp.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_jobs.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_protocol.o)
+ .comment       0x0000000000000049       0x4a build/lib/libpicotcp.a(pico_socket_multicast.o)
+
+.ARM.attributes
+                0x0000000000000000       0x32
+ .ARM.attributes
+                0x0000000000000000       0x34 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_clock.o
+ .ARM.attributes
+                0x0000000000000034       0x34 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_flash.o
+ .ARM.attributes
+                0x0000000000000068       0x34 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_cache.o
+ .ARM.attributes
+                0x000000000000009c       0x34 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_ftfx_controller.o
+ .ARM.attributes
+                0x00000000000000d0       0x34 ../../SDK_2_10_0_FRDM-K64F/devices/MK64F12/drivers/fsl_enet.o
+ .ARM.attributes
+                0x0000000000000104       0x34 ../wolfBoot/src/libwolfboot.o
+ .ARM.attributes
+                0x0000000000000138       0x34 ../wolfBoot/hal/kinetis.o
+ .ARM.attributes
+                0x000000000000016c       0x34 src/clock_config.o
+ .ARM.attributes
+                0x00000000000001a0       0x34 src/main.o
+ .ARM.attributes
+                0x00000000000001d4       0x34 src/pin_mux.o
+ .ARM.attributes
+                0x0000000000000208       0x34 freeRTOS/list.o
+ .ARM.attributes
+                0x000000000000023c       0x34 freeRTOS/queue.o
+ .ARM.attributes
+                0x0000000000000270       0x34 freeRTOS/tasks.o
+ .ARM.attributes
+                0x00000000000002a4       0x34 freeRTOS/timers.o
+ .ARM.attributes
+                0x00000000000002d8       0x34 freeRTOS/portable/GCC/ARM_CM4F/port.o
+ .ARM.attributes
+                0x000000000000030c       0x34 freeRTOS/portable/MemMang/heap_5.o
+ .ARM.attributes
+                0x0000000000000340       0x34 src/startup_mk64f12.o
+ .ARM.attributes
+                0x0000000000000374       0x34 src/pico_enet_kinetis.o
+ .ARM.attributes
+                0x00000000000003a8       0x34 ../../SDK_2_10_0_FRDM-K64F/components/phyksz8081/fsl_phy.o
+ .ARM.attributes
+                0x00000000000003dc       0x34 src/server_ecc_key.o
+ .ARM.attributes
+                0x0000000000000410       0x34 src/server_ecc_cert.o
+ .ARM.attributes
+                0x0000000000000444       0x34 src/picotcp.o
+ .ARM.attributes
+                0x0000000000000478       0x34 ./build/lib/internal.o
+ .ARM.attributes
+                0x00000000000004ac       0x34 ./build/lib/wolfio.o
+ .ARM.attributes
+                0x00000000000004e0       0x34 ./build/lib/keys.o
+ .ARM.attributes
+                0x0000000000000514       0x34 ./build/lib/ssl.o
+ .ARM.attributes
+                0x0000000000000548       0x34 ./build/lib/tls.o
+ .ARM.attributes
+                0x000000000000057c       0x34 ./build/lib/wolfcrypt/aes.o
+ .ARM.attributes
+                0x00000000000005b0       0x34 ./build/lib/wolfcrypt/asn.o
+ .ARM.attributes
+                0x00000000000005e4       0x34 ./build/lib/wolfcrypt/coding.o
+ .ARM.attributes
+                0x0000000000000618       0x34 ./build/lib/wolfcrypt/error.o
+ .ARM.attributes
+                0x000000000000064c       0x34 ./build/lib/wolfcrypt/ecc.o
+ .ARM.attributes
+                0x0000000000000680       0x34 ./build/lib/wolfcrypt/rsa.o
+ .ARM.attributes
+                0x00000000000006b4       0x34 ./build/lib/wolfcrypt/hash.o
+ .ARM.attributes
+                0x00000000000006e8       0x34 ./build/lib/wolfcrypt/hmac.o
+ .ARM.attributes
+                0x000000000000071c       0x34 ./build/lib/wolfcrypt/md5.o
+ .ARM.attributes
+                0x0000000000000750       0x34 ./build/lib/wolfcrypt/pwdbased.o
+ .ARM.attributes
+                0x0000000000000784       0x34 ./build/lib/wolfcrypt/random.o
+ .ARM.attributes
+                0x00000000000007b8       0x34 ./build/lib/wolfcrypt/sha.o
+ .ARM.attributes
+                0x00000000000007ec       0x34 ./build/lib/wolfcrypt/sha256.o
+ .ARM.attributes
+                0x0000000000000820       0x34 ./build/lib/wolfcrypt/wc_encrypt.o
+ .ARM.attributes
+                0x0000000000000854       0x34 ./build/lib/wolfcrypt/wc_port.o
+ .ARM.attributes
+                0x0000000000000888       0x34 ./build/lib/wolfcrypt/wolfmath.o
+ .ARM.attributes
+                0x00000000000008bc       0x34 ./build/lib/tls13.o
+ .ARM.attributes
+                0x00000000000008f0       0x34 ./build/lib/wolfcrypt/sp_c32.o
+ .ARM.attributes
+                0x0000000000000924       0x34 ./build/lib/wolfcrypt/sp_int.o
+ .ARM.attributes
+                0x0000000000000958       0x34 build/lib/libpicotcp.a(pico_ipv4.o)
+ .ARM.attributes
+                0x000000000000098c       0x34 build/lib/libpicotcp.a(pico_udp.o)
+ .ARM.attributes
+                0x00000000000009c0       0x34 build/lib/libpicotcp.a(pico_device.o)
+ .ARM.attributes
+                0x00000000000009f4       0x34 build/lib/libpicotcp.a(pico_frame.o)
+ .ARM.attributes
+                0x0000000000000a28       0x34 build/lib/libpicotcp.a(pico_socket.o)
+ .ARM.attributes
+                0x0000000000000a5c       0x34 build/lib/libpicotcp.a(pico_stack.o)
+ .ARM.attributes
+                0x0000000000000a90       0x34 build/lib/libpicotcp.a(pico_tree.o)
+ .ARM.attributes
+                0x0000000000000ac4       0x34 build/lib/libpicotcp.a(pico_arp.o)
+ .ARM.attributes
+                0x0000000000000af8       0x34 build/lib/libpicotcp.a(pico_dns_client.o)
+ .ARM.attributes
+                0x0000000000000b2c       0x34 build/lib/libpicotcp.a(pico_dns_common.o)
+ .ARM.attributes
+                0x0000000000000b60       0x34 build/lib/libpicotcp.a(pico_ethernet.o)
+ .ARM.attributes
+                0x0000000000000b94       0x34 build/lib/libpicotcp.a(pico_fragments.o)
+ .ARM.attributes
+                0x0000000000000bc8       0x34 build/lib/libpicotcp.a(pico_icmp4.o)
+ .ARM.attributes
+                0x0000000000000bfc       0x34 build/lib/libpicotcp.a(pico_ipfilter.o)
+ .ARM.attributes
+                0x0000000000000c30       0x34 build/lib/libpicotcp.a(pico_socket_tcp.o)
+ .ARM.attributes
+                0x0000000000000c64       0x34 build/lib/libpicotcp.a(pico_socket_udp.o)
+ .ARM.attributes
+                0x0000000000000c98       0x34 build/lib/libpicotcp.a(pico_tcp.o)
+ .ARM.attributes
+                0x0000000000000ccc       0x34 build/lib/libpicotcp.a(pico_jobs.o)
+ .ARM.attributes
+                0x0000000000000d00       0x34 build/lib/libpicotcp.a(pico_protocol.o)
+ .ARM.attributes
+                0x0000000000000d34       0x34 build/lib/libpicotcp.a(pico_socket_multicast.o)
+ .ARM.attributes
+                0x0000000000000d68       0x1e /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x0000000000000d86       0x1e /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x0000000000000da4       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000dd8       0x1e /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000df6       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000000e2a       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x0000000000000e5e       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000e92       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x0000000000000ec6       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000efa       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcasecmp.o)
+ .ARM.attributes
+                0x0000000000000f2e       0x1c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x0000000000000f4a       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x0000000000000f7e       0x17 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000000f95       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncasecmp.o)
+ .ARM.attributes
+                0x0000000000000fc9       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x0000000000000ffd       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x0000000000001031       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strstr.o)
+
+.debug_frame    0x0000000000000000      0x250
+ .debug_frame   0x0000000000000000       0x44 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_ldivmod.o)
+ .debug_frame   0x0000000000000044       0x2c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x0000000000000070       0x34 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000000000a4       0x28 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcmp.o)
+ .debug_frame   0x00000000000000cc       0x28 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x00000000000000f4       0x28 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memmove.o)
+ .debug_frame   0x000000000000011c       0x20 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x000000000000013c       0x2c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcasecmp.o)
+ .debug_frame   0x0000000000000168       0x20 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcmp.o)
+ .debug_frame   0x0000000000000188       0x20 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strcpy.o)
+ .debug_frame   0x00000000000001a8       0x2c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncasecmp.o)
+ .debug_frame   0x00000000000001d4       0x28 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncmp.o)
+ .debug_frame   0x00000000000001fc       0x28 /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strncpy.o)
+ .debug_frame   0x0000000000000224       0x2c /opt/gcc-arm-emmbedded/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc_nano.a(lib_a-strstr.o)
