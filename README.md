@@ -1,14 +1,11 @@
-# wolfboot/wolfBoot
-
+# wolfBoot
 
 
 ## Getting Started
 
 Download links:
 
-SSH clone URL: ssh://git@git.jetbrains.space/huat/wolfboot/wolfBoot.git
-
-HTTPS clone URL: https://git.jetbrains.space/huat/wolfboot/wolfBoot.git
+HTTPS clone URL: https://github.com/gnuarmfuns/VCPSBoot.git
 
 
 
